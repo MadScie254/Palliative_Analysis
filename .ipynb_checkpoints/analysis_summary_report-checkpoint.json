@@ -1,0 +1,33 @@
+{
+  "study_overview": {
+    "total_participants": 13,
+    "cam_users": 12,
+    "study_site": "Kenyatta National Hospital, Kenya",
+    "analysis_date": "2025-08-12"
+  },
+  "demographic_summary": {
+    "mean_age": 53.53846153846154,
+    "gender_distribution": {
+      "Female": "7",
+      "Male": "6"
+    },
+    "education_distribution": {
+      "College/University": "8",
+      "Secondary": "4",
+      "Primary": "1"
+    }
+  },
+  "cam_usage_summary": {
+    "most_common_cam": "Herbal",
+    "effectiveness_high": 7,
+    "disclosure_rate": 46.15384615384615
+  },
+  "thematic_analysis": {
+    "themes_identified": 3,
+    "theme_distribution": {
+      "Effectiveness and Benefits": "11",
+      "Barriers and Challenges": "1",
+      "Healthcare Integration": "1"
+    }
+  }
+}
