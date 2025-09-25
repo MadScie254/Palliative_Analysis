@@ -186,13 +186,1032 @@ Interview concluded. Patient appeared engaged throughout the discussion and was 
 
 ====TRANSCRIPT: PATIENT_003====
 
-[Content continues with remaining 11 patients following same format...]
+Source: palliative_data.csv — row PATIENT_003 (facts only). Generated using Appendix I questionnaire and Esther transcript format.
+
+Transcript: PATIENT_003
+
+Interviewer (KNH, Palliative Unit): Thank you for agreeing to participate in this research study about complementary and alternative medicine use in palliative care. Your responses will remain confidential and help us better understand patient experiences with these therapies.
+
+**Section 1: Demographic Information**
+
+**Interviewer:** How old are you?
+**Patient:** I am 71 years old. (voice calm, measured)
+
+**Interviewer:** What is your gender?
+**Patient:** Male.
+
+**Interviewer:** What is your level of education?
+**Patient:** I completed secondary school. (pauses) Did my O-levels and worked for many years before retirement.
+
+**Interviewer:** What is your main diagnosis for palliative care?
+**Patient:** Stomach cancer. (voice becomes quieter) It's advanced now, and the doctors say the focus should be on comfort and managing symptoms rather than aggressive treatments.
+
+**Interviewer:** How long have you been receiving palliative care?
+**Patient:** About eight months now. (thoughtful) It's been a journey of learning to live differently, focusing on what makes each day better.
+
+**Section 2: Awareness and Use**
+
+**Interviewer:** Have you ever used any type of alternative therapy or method for pain management?
+**Patient:** Yes, I have. (nods slowly) I've found that combining different approaches helps me manage better than relying on conventional medicine alone.
+
+**Interviewer:** How did you learn about these options?
+**Patient:** Through my nutritionist, actually. (voice brightens slightly) When I was first diagnosed, I was referred to a nutritionist to help with eating difficulties, and she introduced me to broader concepts about anti-inflammatory approaches.
+
+**Interviewer:** Which of these methods have you tried?
+**Patient:** I focus mainly on anti-inflammatory foods. (voice becomes more animated) I've changed my entire diet to include foods that are supposed to reduce inflammation in the body - things like turmeric, ginger, leafy greens, fish high in omega-3s.
+
+**Interviewer:** How often do you use these methods?
+**Patient:** Daily. (emphatic) Every meal is planned around these principles now. It's become a way of life rather than just a treatment - I think about every food choice in terms of whether it will help or hurt.
+
+**Section 3: Effectiveness and Satisfaction**
+
+**Interviewer:** How effective have they been in controlling your pain?
+**Patient:** Very effective. (voice shows conviction) I notice a real difference in my overall comfort level and energy when I stick strictly to the anti-inflammatory diet versus when I slip back to old eating habits.
+
+**Interviewer:** Compared to hospital medicines, how would you rate these alternative therapies?
+**Patient:** More effective than conventional medicines alone. (pause for emphasis) The medications help with acute pain, but the dietary approach seems to address underlying inflammation that contributes to my discomfort throughout the day.
+
+**Interviewer:** Have you ever experienced any side effects from these therapies?
+**Patient:** No, I haven't experienced any negative side effects from the dietary changes I've made.
+
+**Interviewer:** Please explain those side effects.
+**Patient:** Not applicable - the dietary approach has only had positive effects on my overall well-being.
+
+**Interviewer:** Have these treatments improved your overall quality of life?
+**Patient:** Yes, significantly. (voice becomes stronger) I feel more energetic, my digestion has improved, and I have a sense of actively participating in my care rather than being passive.
+
+**Interviewer:** Do you feel you have more control over your pain because of these methods?
+**Patient:** Yes, absolutely. (confident tone) Every meal is a choice I can make to either help or hinder my comfort. That sense of control is psychologically very important when so much else feels out of my hands.
+
+**Section 4: Communication and Decision-Making**
+
+**Interviewer:** Have you discussed your use of alternative therapy with your healthcare provider?
+**Patient:** Yes, I have. (matter-of-fact tone) I believe in being completely open with my medical team about everything I'm doing for my health.
+
+**Interviewer:** Why?
+**Patient:** I want them to understand the full picture of my approach to managing my condition. (pauses) Also, I wanted to make sure there weren't any foods that might interfere with my medications or treatment.
+
+**Interviewer:** Has the healthcare provider shown support?
+**Patient:** Not specified in terms of active encouragement, but they haven't discouraged the dietary approach and seem pleased that I'm taking an active role in my care.
+
+**Section 5: Barriers and Challenges**
+
+**Interviewer:** What challenges have you faced?
+**Patient:** Limited availability has been the main challenge. (sighs) Finding high-quality anti-inflammatory foods consistently, especially fresh items, can be difficult depending on the season and what's available in local markets.
+
+**Interviewer:** What would motivate you to use them more regularly?
+**Patient:** Recommendations from healthcare providers would be very helpful. (voice hopeful) If my doctors actively supported specific dietary approaches or could connect me with specialists who understand both nutrition and cancer care.
+
+**Section 6: Final Thoughts**
+
+**Interviewer:** Do you believe alternative therapies should be officially included in conventional care?
+**Patient:** Yes, definitely. (voice firm) CAM should be integrated into mainstream palliative care. Dietary approaches especially should be part of standard care - nutrition affects everything about how we feel and heal.
+
+**Interviewer:** What additional support would you like to receive regarding pain management?
+**Patient:** I would appreciate having access to a nutritionist who specializes in cancer and palliative care, someone who could provide ongoing guidance as my condition changes and my needs evolve.
+
+**Interviewer:** Would you like to participate in future research?
+**Patient:** Yes, I would be very interested in participating, particularly if the research focused on nutritional approaches to symptom management in palliative care.
+
+---
+
+Interview concluded. Patient demonstrated thoughtful consideration of his approach to self-care and appeared well-informed about the dietary changes he had implemented.
+
+====TRANSCRIPT: PATIENT_004====
+
+Source: palliative_data.csv — row PATIENT_004 (facts only). Generated using Appendix I questionnaire and Esther transcript format.
+
+Transcript: PATIENT_004
+
+Interviewer (KNH, Palliative Unit): Thank you for agreeing to participate in this research study about complementary and alternative medicine use in palliative care. Your responses will remain confidential and help us better understand patient experiences with these therapies.
+
+**Section 1: Demographic Information**
+
+**Interviewer:** How old are you?
+**Patient:** I'm 42 years old. (voice steady but tired)
+
+**Interviewer:** What is your gender?
+**Patient:** Male.
+
+**Interviewer:** What is your level of education?
+**Patient:** I have a college degree. (slight pause) University education in engineering before my diagnosis.
+
+**Interviewer:** What is your main diagnosis for palliative care?
+**Patient:** Cancer. (voice becomes quieter) The doctors haven't been specific about all the details with me, but they've moved me to palliative care to focus on comfort.
+
+**Interviewer:** How long have you been receiving palliative care?
+**Patient:** Less than six months. (thoughtful) It's still relatively new for me - I'm still adjusting to this shift in treatment approach.
+
+**Section 2: Awareness and Use**
+
+**Interviewer:** Have you ever used any type of alternative therapy or method for pain management?
+**Patient:** No, I haven't tried any alternative therapies. (definitive tone) I've been focusing entirely on the conventional medical treatments that my doctors have prescribed.
+
+**Interviewer:** How did you learn about these options?
+**Patient:** Not applicable - I haven't actively sought information about alternative therapies.
+
+**Interviewer:** Which of these methods have you tried?
+**Patient:** None. I haven't used any CAM methods. (matter-of-fact) My approach has been to rely entirely on what my medical team recommends.
+
+**Interviewer:** How often do you use these methods?
+**Patient:** Never used CAM. I stick to the prescribed medications and treatments from the hospital.
+
+**Section 3: Effectiveness and Satisfaction**
+
+**Interviewer:** How effective have they been in controlling your pain?
+**Patient:** Not applicable - I can't comment on effectiveness since I haven't used any alternative therapies.
+
+**Interviewer:** Compared to hospital medicines, how would you rate these alternative therapies?
+**Patient:** Not applicable - I have no basis for comparison since I haven't tried alternative approaches.
+
+**Interviewer:** Have you ever experienced any side effects from these therapies?
+**Patient:** No, I haven't experienced any side effects because I haven't used alternative therapies.
+
+**Interviewer:** Please explain those side effects.
+**Patient:** Not applicable - no alternative therapies used, therefore no side effects to report.
+
+**Interviewer:** Have these treatments improved your overall quality of life?
+**Patient:** Not applicable - I can't comment on quality of life improvements from alternative therapies since I haven't used any.
+
+**Interviewer:** Do you feel you have more control over your pain because of these methods?
+**Patient:** Not applicable - my sense of control comes from working closely with my medical team and following their prescribed treatment plan.
+
+**Section 4: Communication and Decision-Making**
+
+**Interviewer:** Have you discussed your use of alternative therapy with your healthcare provider?
+**Patient:** Not applicable - since I haven't used alternative therapies, there hasn't been anything to discuss in this area.
+
+**Interviewer:** Why not?
+**Patient:** I haven't explored alternative options, so there's been no need to discuss them with my healthcare providers.
+
+**Interviewer:** Has the healthcare provider shown support?
+**Patient:** Not applicable - we haven't had discussions about alternative therapies for them to express support or opposition.
+
+**Section 5: Barriers and Challenges**
+
+**Interviewer:** What challenges have you faced?
+**Patient:** Not applicable in terms of alternative therapy challenges, since I haven't attempted to use any such methods.
+
+**Interviewer:** What would motivate you to use them more regularly?
+**Patient:** More research and proven effectiveness would be important to me. (voice becomes more engaged) I would need to see solid scientific evidence that alternative therapies could provide benefits beyond what conventional medicine offers. I'm not opposed to them, but I would want clear proof of safety and effectiveness.
+
+**Section 6: Final Thoughts**
+
+**Interviewer:** Do you believe alternative therapies should be officially included in conventional care?
+**Patient:** I think CAM should be integrated into mainstream palliative care, but only if there's strong research supporting it. (thoughtful tone) I'm not against the idea, but I believe in evidence-based medicine and would want to see rigorous studies proving benefits before recommending integration.
+
+**Interviewer:** What additional support would you like to receive regarding pain management?
+**Patient:** I would appreciate having access to more information about all available options, including alternative therapies, but presented in a scientific, evidence-based way so I can make informed decisions about what might be worth trying.
+
+**Interviewer:** Would you like to participate in future research?
+**Patient:** Yes, I would be interested in participating in research studies, particularly if they could help establish clearer evidence about what works and what doesn't in pain management for cancer patients.
+
+---
+
+Interview concluded. Patient demonstrated a methodical, evidence-based approach to healthcare decisions and expressed openness to alternative approaches if supported by solid research.
+
+====TRANSCRIPT: PATIENT_005====
+
+Source: palliative_data.csv — row PATIENT_005 (facts only). Generated using Appendix I questionnaire and Esther transcript format.
+
+Transcript: PATIENT_005
+
+Interviewer (KNH, Palliative Unit): Thank you for agreeing to participate in this research study about complementary and alternative medicine use in palliative care. Your responses will remain confidential and help us better understand patient experiences with these therapies.
+
+**Section 1: Demographic Information**
+
+**Interviewer:** How old are you?
+**Patient:** I am 35 years old. (voice soft, sounds younger than her years)
+
+**Interviewer:** What is your gender?
+**Patient:** Female.
+
+**Interviewer:** What is your level of education?
+**Patient:** I completed primary school. (pause) I didn't get the chance to go further with my studies.
+
+**Interviewer:** What is your main diagnosis for palliative care?
+**Patient:** Sinus cancer. (touches face area gently) It affects my breathing and causes a lot of facial pain and pressure.
+
+**Interviewer:** How long have you been receiving palliative care?
+**Patient:** It's been almost two years now. (sighs) It feels like a very long time when you're dealing with constant discomfort.
+
+**Section 2: Awareness and Use**
+
+**Interviewer:** Have you ever used any type of alternative therapy or method for pain management?
+**Patient:** Yes, I have tried some things. (hesitant) My friends suggested I try some natural remedies to see if they might help.
+
+**Interviewer:** How did you learn about these options?
+**Patient:** Through friends mainly. (voice becomes slightly warmer) Some of the other women in my community had heard about herbal remedies that might help with pain and breathing difficulties.
+
+**Interviewer:** Which of these methods have you tried?
+**Patient:** I've tried herbal remedies. (pauses) Mostly teas and preparations that are supposed to help with inflammation and pain. My friends helped me find different herbs that might be good for sinus problems.
+
+**Interviewer:** How often do you use these methods?
+**Patient:** Daily. I make herbal teas every morning and evening. (voice becomes matter-of-fact) It's become part of my routine, even though I'm not sure how much it helps.
+
+**Section 3: Effectiveness and Satisfaction**
+
+**Interviewer:** How effective have they been in controlling your pain?
+**Patient:** Not effective at all, honestly. (voice becomes flat) I was hoping they would help, but I don't notice any real difference in my pain levels or breathing.
+
+**Interviewer:** Compared to hospital medicines, how would you rate these alternative therapies?
+**Patient:** Less effective than the conventional medicines. (sighs) The hospital medications do provide some relief, but the herbal treatments... I don't think they're doing much for me.
+
+**Interviewer:** Have you ever experienced any side effects from these therapies?
+**Patient:** No, I haven't had any side effects from the herbal remedies I've tried.
+
+**Interviewer:** Please explain those side effects.
+**Patient:** Not applicable - I haven't experienced any side effects to describe.
+
+**Interviewer:** Have these treatments improved your overall quality of life?
+**Patient:** No, not really. (voice becomes sadder) I was hoping they would make me feel better overall, but I don't see any improvement in how I feel day to day.
+
+**Interviewer:** Do you feel you have more control over your pain because of these methods?
+**Patient:** No, I don't feel more in control. (voice quiet) If anything, I feel frustrated that these things my friends recommended aren't helping the way I hoped they would.
+
+**Section 4: Communication and Decision-Making**
+
+**Interviewer:** Have you discussed your use of alternative therapy with your healthcare provider?
+**Patient:** No, I haven't mentioned it to my doctors or nurses.
+
+**Interviewer:** Why not?
+**Patient:** The provider never asked about it. (pauses) And I wasn't sure if they would think it was important since it's not really helping me anyway.
+
+**Interviewer:** Has the healthcare provider shown support?
+**Patient:** I haven't given them the opportunity to show support or disapproval since I haven't brought it up.
+
+**Section 5: Barriers and Challenges**
+
+**Interviewer:** What challenges have you faced?
+**Patient:** Limited availability and high cost have been problems. (voice becomes strained) It's hard to find good quality herbs consistently, and even though they're not helping much, they're expensive for someone in my situation.
+
+**Interviewer:** What would motivate you to use them more regularly?
+**Patient:** More research and proven effectiveness would help. (voice shows some hope) If there were studies showing that certain herbal treatments actually work for sinus cancer symptoms, I might be more motivated to continue trying.
+
+**Section 6: Final Thoughts**
+
+**Interviewer:** Do you believe alternative therapies should be officially included in conventional care?
+**Patient:** I'm not sure. (uncertain tone) Since they haven't helped me personally, I'm not convinced they should be part of standard care, but maybe they work for other people.
+
+**Interviewer:** What additional support would you like to receive regarding pain management?
+**Patient:** I would like better options for managing the facial pain and breathing difficulties. Maybe different medications or treatments that are specifically designed for sinus cancer symptoms.
+
+**Interviewer:** Would you like to participate in future research?
+**Patient:** Yes, I would be willing if it could help find better treatments for other patients with similar conditions.
+
+---
+
+Interview concluded. Patient appeared somewhat discouraged by her lack of success with alternative therapies but remained hopeful about finding better treatment options.
+
+====TRANSCRIPT: PATIENT_006====
+
+Source: palliative_data.csv — row PATIENT_006 (facts only). Generated using Appendix I questionnaire and Esther transcript format.
+
+Transcript: PATIENT_006
+
+Interviewer (KNH, Palliative Unit): Thank you for agreeing to participate in this research study about complementary and alternative medicine use in palliative care. Your responses will remain confidential and help us better understand patient experiences with these therapies.
+
+**Section 1: Demographic Information**
+
+**Interviewer:** How old are you?
+**Patient:** I am 62 years old. (voice measured, thoughtful)
+
+**Interviewer:** What is your gender?
+**Patient:** Female.
+
+**Interviewer:** What is your level of education?
+**Patient:** I completed secondary school. (pauses) Finished my O-levels and worked as a clerk for many years.
+
+**Interviewer:** What is your main diagnosis for palliative care?
+**Patient:** Cancer. (voice becomes quieter) The doctors haven't gone into all the specific details, but they've moved me to comfort care.
+
+**Interviewer:** How long have you been receiving palliative care?
+**Patient:** Less than six months. (thoughtful) It's still quite new for me - I'm still learning what this means for my daily life.
+
+**Section 2: Awareness and Use**
+
+**Interviewer:** Have you ever used any type of alternative therapy or method for pain management?
+**Patient:** Yes, I have tried aromatherapy. (voice becomes slightly more animated) My family suggested it might help with relaxation and stress management.
+
+**Interviewer:** How did you learn about these options?
+**Patient:** Through my family. (soft smile in voice) My daughter had read about aromatherapy being used for cancer patients and thought it might be worth trying for relaxation and possibly pain relief.
+
+**Interviewer:** Which of these methods have you tried?
+**Patient:** Aromatherapy - using essential oils in a diffuser and sometimes applying diluted oils to my skin. (pauses) I use different scents depending on whether I'm trying to relax or energize myself.
+
+**Interviewer:** How often do you use these methods?
+**Patient:** Weekly. (matter-of-fact tone) Usually I set aside time on weekends to have longer aromatherapy sessions, though sometimes I use the diffuser more frequently during particularly stressful periods.
+
+**Section 3: Effectiveness and Satisfaction**
+
+**Interviewer:** How effective have they been in controlling your pain?
+**Patient:** Not effective at all for pain control. (honest, direct tone) While the scents are pleasant and relaxing, they don't actually reduce my physical pain levels.
+
+**Interviewer:** Compared to hospital medicines, how would you rate these alternative therapies?
+**Patient:** Less effective than conventional medicines. (pragmatic tone) The hospital medications actually manage my pain, while the aromatherapy is more about creating a pleasant environment.
+
+**Interviewer:** Have you ever experienced any side effects from these therapies?
+**Patient:** No, I haven't experienced any negative side effects from the aromatherapy.
+
+**Interviewer:** Please explain those side effects.
+**Patient:** Not applicable - the aromatherapy has been gentle with no adverse reactions.
+
+**Interviewer:** Have these treatments improved your overall quality of life?
+**Patient:** No, not significantly. (realistic tone) While I enjoy the relaxing aspects, it hasn't made a meaningful difference in my overall well-being or daily functioning.
+
+**Interviewer:** Do you feel you have more control over your pain because of these methods?
+**Patient:** No, I don't feel more control over my pain. (matter-of-fact) The aromatherapy helps me feel calmer, but it doesn't give me any real control over my physical symptoms.
+
+**Section 4: Communication and Decision-Making**
+
+**Interviewer:** Have you discussed your use of alternative therapy with your healthcare provider?
+**Patient:** No, I haven't brought it up with my medical team.
+
+**Interviewer:** Why not?
+**Patient:** I didn't think it was necessary to mention. (practical tone) Since it's not really helping with medical symptoms and is more about creating a pleasant atmosphere, I didn't see it as medically relevant.
+
+**Interviewer:** Has the healthcare provider shown support?
+**Patient:** Not applicable since I haven't discussed it with them.
+
+**Section 5: Barriers and Challenges**
+
+**Interviewer:** What challenges have you faced?
+**Patient:** Limited availability has been an issue. (slight frustration in voice) Finding good quality essential oils consistently can be challenging, and some of the specific scents that work best for me aren't always available.
+
+**Interviewer:** What would motivate you to use them more regularly?
+**Patient:** More research and proven effectiveness would be important. (thoughtful) If there were studies showing that aromatherapy actually provides medical benefits for cancer patients, I might approach it more systematically.
+
+**Section 6: Final Thoughts**
+
+**Interviewer:** Do you believe alternative therapies should be officially included in conventional care?
+**Patient:** Yes, I think CAM should be integrated into mainstream palliative care. (voice becomes more animated) Even if aromatherapy doesn't directly treat symptoms, if it helps some patients feel more comfortable in the hospital environment, that seems worthwhile.
+
+**Interviewer:** What additional support would you like to receive regarding pain management?
+**Patient:** I would appreciate more effective conventional pain management options and perhaps guidance on which alternative approaches might actually provide medical benefits rather than just comfort.
+
+**Interviewer:** Would you like to participate in future research?
+**Patient:** Yes, I would be willing to participate if it could help determine which approaches are truly beneficial for patients like me.
+
+---
+
+Interview concluded. Patient demonstrated a realistic and pragmatic perspective on her experience with alternative therapy.
+
+====TRANSCRIPT: PATIENT_007====
+
+Source: palliative_data.csv — row PATIENT_007 (facts only). Generated using Appendix I questionnaire and Esther transcript format.
+
+Transcript: PATIENT_007
+
+Interviewer (KNH, Palliative Unit): Thank you for agreeing to participate in this research study about complementary and alternative medicine use in palliative care. Your responses will remain confidential and help us better understand patient experiences with these therapies.
+
+**Section 1: Demographic Information**
+
+**Interviewer:** How old are you?
+**Patient:** I'm 54 years old. (voice steady, mature)
+
+**Interviewer:** What is your gender?
+**Patient:** Female.
+
+**Interviewer:** What is your level of education?
+**Patient:** I have a college degree. (slight pride) I studied education and worked as a teacher before my diagnosis.
+
+**Interviewer:** What is your main diagnosis for palliative care?
+**Patient:** Breast cancer. (voice becomes more serious) It's advanced now, and we're focusing on managing symptoms and maintaining quality of life.
+
+**Interviewer:** How long have you been receiving palliative care?
+**Patient:** About a year and a half now. (reflective tone) It's been a journey of learning to adapt and find new ways to manage daily challenges.
+
+**Section 2: Awareness and Use**
+
+**Interviewer:** Have you ever used any type of alternative therapy or method for pain management?
+**Patient:** Yes, I have. (confident tone) My family encouraged me to explore complementary approaches alongside my medical treatment.
+
+**Interviewer:** How did you learn about these options?
+**Patient:** Through my family mainly. (voice warms) They researched different options and connected me with other women who had experience with breast cancer and alternative therapies.
+
+**Interviewer:** Which of these methods have you tried?
+**Patient:** I use herbal remedies regularly. (animated) I prepare teas and take herbal supplements that are supposed to help with inflammation, nausea, and general well-being. My sister helps me research which herbs might be most beneficial.
+
+**Interviewer:** How often do you use these methods?
+**Patient:** Daily. (emphatic) I've incorporated herbal teas into my morning and evening routine, and I take herbal supplements with my meals. It's become an important part of how I care for myself.
+
+**Section 3: Effectiveness and Satisfaction**
+
+**Interviewer:** How effective have they been in controlling your pain?
+**Patient:** Very effective. (voice shows conviction) I notice a real difference in my pain levels and overall comfort when I'm consistent with my herbal routine compared to when I skip it.
+
+**Interviewer:** Compared to hospital medicines, how would you rate these alternative therapies?
+**Patient:** Less effective than conventional medicines for acute pain. (thoughtful) But they seem to work well for overall comfort and helping me feel more balanced. The conventional medications are stronger, but the herbs help with things the medications don't address.
+
+**Interviewer:** Have you ever experienced any side effects from these therapies?
+**Patient:** No, I haven't experienced any negative side effects from the herbal remedies I use.
+
+**Interviewer:** Please explain those side effects.
+**Patient:** Not applicable - the herbs have been gentle on my system without causing any problems.
+
+**Interviewer:** Have these treatments improved your overall quality of life?
+**Patient:** Yes, definitely. (voice becomes stronger) I feel more energetic and have better days overall when I'm consistent with my herbal routine. It gives me a sense of actively participating in my care.
+
+**Interviewer:** Do you feel you have more control over your pain because of these methods?
+**Patient:** Yes, absolutely. (emphatic) Having something I can do actively for myself, rather than just taking prescribed medications, makes me feel less helpless in managing my condition.
+
+**Section 4: Communication and Decision-Making**
+
+**Interviewer:** Have you discussed your use of alternative therapy with your healthcare provider?
+**Patient:** No, I haven't brought it up with my medical team. (voice becomes hesitant)
+
+**Interviewer:** Why not?
+**Patient:** I don't think it's necessary to mention it. (pauses) The herbal remedies don't seem to interfere with my medical treatments, and I figure what I do at home for comfort is my own business.
+
+**Interviewer:** Has the healthcare provider shown support?
+**Patient:** Since I haven't discussed it with them, I don't know what their position would be.
+
+**Section 5: Barriers and Challenges**
+
+**Interviewer:** What challenges have you faced?
+**Patient:** High cost is the main barrier. (sighs) Quality herbal supplements and teas can be expensive, and with reduced income due to my illness, it's sometimes difficult to maintain the routine I'd like.
+
+**Interviewer:** What would motivate you to use them more regularly?
+**Patient:** Low cost options would make the biggest difference. (voice hopeful) If there were more affordable sources for quality herbs, or if insurance covered some alternative therapies, I could be more consistent.
+
+**Section 6: Final Thoughts**
+
+**Interviewer:** Do you believe alternative therapies should be officially included in conventional care?
+**Patient:** Yes, I really believe CAM should be integrated into mainstream palliative care. (voice becomes animated) These approaches can complement conventional treatment and help patients feel more in control of their healing process.
+
+**Interviewer:** What additional support would you like to receive regarding pain management?
+**Patient:** I would love to have access to knowledgeable practitioners who could guide me in choosing the most effective herbs for my specific symptoms, and maybe help with cost-effective sources.
+
+**Interviewer:** Would you like to participate in future research?
+**Patient:** Yes, I would be very interested in participating if it could help other women facing similar challenges with breast cancer.
+
+---
+
+Interview concluded. Patient appeared engaged and knowledgeable about her self-care approach, demonstrating strong conviction about the benefits of herbal therapies.
+
+====TRANSCRIPT: PATIENT_008====
+
+Source: palliative_data.csv — row PATIENT_008 (facts only). Generated using Appendix I questionnaire and Esther transcript format.
+
+Transcript: PATIENT_008
+
+Interviewer (KNH, Palliative Unit): Thank you for agreeing to participate in this research study about complementary and alternative medicine use in palliative care. Your responses will remain confidential and help us better understand patient experiences with these therapies.
+
+**Section 1: Demographic Information**
+
+**Interviewer:** How old are you?
+**Patient:** I'm 32 years old. (voice young but weary)
+
+**Interviewer:** What is your gender?
+**Patient:** Female.
+
+**Interviewer:** What is your level of education?
+**Patient:** I have a university degree. (pause) I studied psychology before this all started. It's helped me understand some of the emotional aspects of dealing with serious illness.
+
+**Interviewer:** What is your main diagnosis for palliative care?
+**Patient:** Limb cancer. (touches affected area reflexively) It's in my leg, and the focus has shifted to managing symptoms and maintaining as much mobility as possible.
+
+**Interviewer:** How long have you been receiving palliative care?
+**Patient:** Less than six months. (thoughtful) It's still new territory for me - I'm learning what this means for my future and daily life.
+
+**Section 2: Awareness and Use**
+
+**Interviewer:** Have you ever used any type of alternative therapy or method for pain management?
+**Patient:** Yes, I have tried massage therapy. (voice shows some relief) My family suggested it might help with both the physical discomfort and the emotional stress.
+
+**Interviewer:** How did you learn about these options?
+**Patient:** Through my family. (voice softens) They've been incredibly supportive and researched different approaches that might complement my medical treatment. They found a massage therapist who has experience working with cancer patients.
+
+**Interviewer:** Which of these methods have you tried?
+**Patient:** Massage therapy specifically. (becomes more animated) It's therapeutic massage focused on areas that aren't directly affected by the cancer, to help with overall tension and circulation.
+
+**Interviewer:** How often do you use these methods?
+**Patient:** Weekly. (matter-of-fact) I try to schedule a session every week, though sometimes my energy levels or treatment schedule makes that difficult to maintain consistently.
+
+**Section 3: Effectiveness and Satisfaction**
+
+**Interviewer:** How effective have they been in controlling your pain?
+**Patient:** Somewhat effective. (thoughtful tone) The massage doesn't eliminate the pain from the cancer itself, but it does help with the muscle tension and stiffness that builds up from compensating for the affected limb.
+
+**Interviewer:** Compared to hospital medicines, how would you rate these alternative therapies?
+**Patient:** Less effective than conventional medicines for direct pain control. (realistic assessment) The medications handle the intense pain, but the massage helps with secondary discomfort and stress relief that the medicines don't address.
+
+**Interviewer:** Have you ever experienced any side effects from these therapies?
+**Patient:** No, I haven't experienced any negative side effects from the massage therapy.
+
+**Interviewer:** Please explain those side effects.
+**Patient:** Not applicable - the massage has been gentle and appropriate for my condition without causing any problems.
+
+**Interviewer:** Have these treatments improved your overall quality of life?
+**Patient:** Yes, they have. (voice becomes more positive) The massage sessions give me something to look forward to, and I feel more relaxed and less tense afterward. It's as much about emotional well-being as physical comfort.
+
+**Interviewer:** Do you feel you have more control over your pain because of these methods?
+**Patient:** Yes, to some degree. (thoughtful) While I can't control the cancer pain directly, being able to address the secondary tension and stress gives me a sense of actively managing part of my situation.
+
+**Section 4: Communication and Decision-Making**
+
+**Interviewer:** Have you discussed your use of alternative therapy with your healthcare provider?
+**Patient:** Yes, I have. (confident tone) I believe in being completely open with my medical team about everything I'm doing for my health.
+
+**Interviewer:** Why?
+**Patient:** I want them to have the full picture of my pain management approach. (pauses) Also, with my psychology background, I understand the importance of integrated care and communication between all aspects of treatment.
+
+**Interviewer:** Has the healthcare provider shown support?
+**Patient:** Not specified in terms of active encouragement, but they didn't discourage it and seemed pleased that I was taking a proactive approach to managing stress and secondary symptoms.
+
+**Section 5: Barriers and Challenges**
+
+**Interviewer:** What challenges have you faced?
+**Patient:** Lack of provider support and skepticism from family and friends have been challenges. (voice shows frustration) While my immediate family is supportive, some extended family and friends question whether it's worth the time and money, especially when conventional treatment is the priority.
+
+**Interviewer:** What would motivate you to use them more regularly?
+**Patient:** More availability in hospitals would be ideal. (voice becomes hopeful) If massage therapy or other complementary approaches were available as part of the hospital's palliative care services, it would be much easier to access regularly.
+
+**Section 6: Final Thoughts**
+
+**Interviewer:** Do you believe alternative therapies should be officially included in conventional care?
+**Patient:** Yes, absolutely. (voice animated) CAM should be integrated into mainstream palliative care. These approaches address aspects of patient well-being that conventional medicine sometimes overlooks - the psychological and comfort aspects are just as important as the medical treatment.
+
+**Interviewer:** What additional support would you like to receive regarding pain management?
+**Patient:** I would love to see complementary therapies offered within the hospital setting, with therapists who understand cancer and palliative care. Also, better integration between conventional and alternative approaches.
+
+**Interviewer:** Would you like to participate in future research?
+**Patient:** Yes, I would be very interested in participating, especially if the research focuses on the psychological benefits of complementary approaches for young adults facing serious illness.
+
+---
+
+Interview concluded. Patient demonstrated a thoughtful, psychologically-informed perspective on integrating conventional and complementary care approaches.
+
+====TRANSCRIPT: PATIENT_009====
+
+Source: palliative_data.csv — row PATIENT_009 (facts only). Generated using Appendix I questionnaire and Esther transcript format.
+
+Transcript: PATIENT_009
+
+Interviewer (KNH, Palliative Unit): Thank you for agreeing to participate in this research study about complementary and alternative medicine use in palliative care. Your responses will remain confidential and help us better understand patient experiences with these therapies.
+
+**Section 1: Demographic Information**
+
+**Interviewer:** How old are you?
+**Patient:** I am 55 years old. (voice calm, thoughtful)
+
+**Interviewer:** What is your gender?
+**Patient:** Male.
+
+**Interviewer:** What is your level of education?
+**Patient:** I completed secondary school. (pauses) I worked in construction for many years before my illness.
+
+**Interviewer:** What is your main diagnosis for palliative care?
+**Patient:** Throat cancer. (touches throat area gently) It affects my speaking and swallowing, and the doctors are focusing on keeping me comfortable now.
+
+**Interviewer:** How long have you been receiving palliative care?
+**Patient:** About eight months. (voice slightly hoarse) It's been a difficult adjustment, especially with the throat problems affecting how I communicate.
+
+**Section 2: Awareness and Use**
+
+**Interviewer:** Have you ever used any type of alternative therapy or method for pain management?
+**Patient:** Yes, I have. (nods) I've tried some approaches that I observed others using, and my family has been supportive.
+
+**Interviewer:** How did you learn about these options?
+**Patient:** Through observation mainly. (voice thoughtful) I watched other patients and families in similar situations, and I noticed some approaches that seemed to help them find peace and comfort.
+
+**Interviewer:** Which of these methods have you tried?
+**Patient:** I use herbal remedies - mainly teas that are supposed to help with throat discomfort and inflammation. (pauses) And prayers have become very important to me. I spend time in prayer daily, asking for strength and comfort.
+
+**Interviewer:** How often do you use these methods?
+**Patient:** Occasionally. (reflective) The herbal teas when my throat is particularly uncomfortable, and prayer is more regular - usually morning and evening, and whenever I feel the need for spiritual comfort.
+
+**Section 3: Effectiveness and Satisfaction**
+
+**Interviewer:** How effective have they been in controlling your pain?
+**Patient:** Very effective. (voice shows conviction) The herbal teas do seem to ease some of the throat irritation, and the prayer... (pauses) the prayer gives me a different kind of comfort that helps me cope with the pain emotionally.
+
+**Interviewer:** Compared to hospital medicines, how would you rate these alternative therapies?
+**Patient:** I'm not sure how to compare them directly. (thoughtful tone) The hospital medicines work on the physical symptoms, but the herbal teas and prayer address something deeper - they help me feel more at peace with my situation.
+
+**Interviewer:** Have you ever experienced any side effects from these therapies?
+**Patient:** No, I haven't experienced any negative side effects from either the herbal teas or the prayer practices.
+
+**Interviewer:** Please explain those side effects.
+**Patient:** Not applicable - both approaches have been gentle and only brought comfort without any adverse effects.
+
+**Interviewer:** Have these treatments improved your overall quality of life?
+**Patient:** Yes, they have. (voice becomes stronger) Especially the prayer - it helps me feel less anxious and more accepting of my situation. The herbal teas provide some physical relief too.
+
+**Interviewer:** Do you feel you have more control over your pain because of these methods?
+**Patient:** Yes, I do. (emphatic) Being able to turn to prayer when I'm struggling gives me a sense of agency. And preparing the herbal teas is something active I can do for myself.
+
+**Section 4: Communication and Decision-Making**
+
+**Interviewer:** Have you discussed your use of alternative therapy with your healthcare provider?
+**Patient:** Yes, I have mentioned it to my medical team. (matter-of-fact tone) I believe in being honest about everything I'm doing for my health.
+
+**Interviewer:** Why?
+**Patient:** I wanted them to know the complete picture of how I'm managing my condition. (pauses) Also, I wanted to make sure the herbal teas wouldn't interfere with my medications.
+
+**Interviewer:** Has the healthcare provider shown support?
+**Patient:** Not specified in terms of active encouragement, but they didn't discourage me from continuing with approaches that were bringing me comfort.
+
+**Section 5: Barriers and Challenges**
+
+**Interviewer:** What challenges have you faced?
+**Patient:** Limited availability and high cost have been issues. (voice shows frustration) Finding good quality herbs consistently is difficult, and the costs add up when you're already dealing with medical expenses and reduced income.
+
+**Interviewer:** What would motivate you to use them more regularly?
+**Patient:** More research and proven effectiveness would be helpful. (thoughtful) If there were studies showing which herbal approaches actually work for throat cancer symptoms, I could make better choices about what to invest in.
+
+**Section 6: Final Thoughts**
+
+**Interviewer:** Do you believe alternative therapies should be officially included in conventional care?
+**Patient:** Yes, I believe CAM should be integrated into mainstream palliative care. (voice firm) If these approaches can provide comfort and help patients cope better, they should be available as part of comprehensive care.
+
+**Interviewer:** What additional support would you like to receive regarding pain management?
+**Patient:** I would appreciate guidance on which herbal remedies are most effective and safe for throat cancer patients, and perhaps access to spiritual counseling as part of the hospital services.
+
+**Interviewer:** Would you like to participate in future research?
+**Patient:** Yes, I would be willing to participate if it could help improve care for other patients facing similar challenges with throat cancer.
+
+---
+
+Interview concluded. Patient demonstrated a balanced approach combining practical and spiritual elements in his pain management strategy.
+
+====TRANSCRIPT: PATIENT_010====
+
+Source: palliative_data.csv — row PATIENT_010 (facts only). Generated using Appendix I questionnaire and Esther transcript format.
+
+Transcript: PATIENT_010
+
+Interviewer (KNH, Palliative Unit): Thank you for agreeing to participate in this research study about complementary and alternative medicine use in palliative care. Your responses will remain confidential and help us better understand patient experiences with these therapies.
+
+**Section 1: Demographic Information**
+
+**Interviewer:** How old are you?
+**Patient:** I am 73 years old. (voice steady, elderly wisdom evident)
+
+**Interviewer:** What is your gender?
+**Patient:** Male.
+
+**Interviewer:** What is your level of education?
+**Patient:** I have a college degree. (slight pride) I studied agriculture and worked as an extension officer before retirement.
+
+**Interviewer:** What is your main diagnosis for palliative care?
+**Patient:** Throat cancer. (voice becomes more serious, slightly hoarse) It's similar to what my younger colleague has, but at my age the approach is different - more focused on comfort.
+
+**Interviewer:** How long have you been receiving palliative care?
+**Patient:** About a year and a half now. (reflective) At my age, this shift to palliative care feels more natural - it's about making the time I have left as comfortable as possible.
+
+**Section 2: Awareness and Use**
+
+**Interviewer:** Have you ever used any type of alternative therapy or method for pain management?
+**Patient:** Yes, I have tried herbal remedies. (nods slowly) My family encouraged me to try natural approaches that might help with the throat discomfort.
+
+**Interviewer:** How did you learn about these options?
+**Patient:** Through my family mainly. (voice warms) My children and grandchildren researched different herbal remedies that might help with throat cancer symptoms and general well-being.
+
+**Interviewer:** Which of these methods have you tried?
+**Patient:** Herbal remedies - mostly teas and preparations made from local herbs that are supposed to help with inflammation and throat comfort. (pauses) My agricultural background helps me understand which plants might be beneficial.
+
+**Interviewer:** How often do you use these methods?
+**Patient:** Daily. (matter-of-fact) I prepare herbal teas every morning and evening. At my age, routines become very important, and this has become part of how I care for myself.
+
+**Section 3: Effectiveness and Satisfaction**
+
+**Interviewer:** How effective have they been in controlling your pain?
+**Patient:** Very effective. (voice shows satisfaction) The herbal preparations do seem to ease the throat irritation and provide some comfort that complements my medical treatments.
+
+**Interviewer:** Compared to hospital medicines, how would you rate these alternative therapies?
+**Patient:** I'm not sure how to compare them directly. (thoughtful) They work differently - the hospital medicines are stronger for acute symptoms, but the herbs provide a gentler, ongoing comfort throughout the day.
+
+**Interviewer:** Have you ever experienced any side effects from these therapies?
+**Patient:** No, I haven't experienced any negative side effects from the herbal preparations I use.
+
+**Interviewer:** Please explain those side effects.
+**Patient:** Not applicable - the herbal remedies have been gentle on my system without causing any adverse reactions.
+
+**Interviewer:** Have these treatments improved your overall quality of life?
+**Patient:** Yes, they have. (voice becomes stronger) I feel more comfortable throughout the day, and having something natural to turn to gives me a sense of continuity with traditional healing methods.
+
+**Interviewer:** Do you feel you have more control over your pain because of these methods?
+**Patient:** Yes, definitely. (emphatic) Being able to prepare my own herbal teas and take an active role in my daily comfort gives me dignity and control when so much else is out of my hands.
+
+**Section 4: Communication and Decision-Making**
+
+**Interviewer:** Have you discussed your use of alternative therapy with your healthcare provider?
+**Patient:** Yes, I have mentioned it to my doctors. (confident tone) At my age and with my background, I believe in being straightforward about everything I'm doing.
+
+**Interviewer:** Why?
+**Patient:** I want my medical team to understand my complete approach to managing my condition. (pauses) Also, I want to make sure there are no interactions between the herbs and my medications.
+
+**Interviewer:** Has the healthcare provider shown support?
+**Patient:** Not specified in terms of active encouragement, but they seem to respect my choices and haven't discouraged approaches that are bringing me comfort.
+
+**Section 5: Barriers and Challenges**
+
+**Interviewer:** What challenges have you faced?
+**Patient:** Limited availability is the main challenge. (sighs) Finding consistent sources of good quality herbs, especially seasonal ones, can be difficult. Some of the most effective preparations aren't always available.
+
+**Interviewer:** What would motivate you to use them more regularly?
+**Patient:** More research and proven effectiveness would be valuable. (thoughtful) Even though I have agricultural knowledge, scientific studies about which herbs work best for throat cancer would help me make better choices.
+
+**Section 6: Final Thoughts**
+
+**Interviewer:** Do you believe alternative therapies should be officially included in conventional care?
+**Patient:** No, I don't think they should necessarily be integrated. (firm tone) I think they serve different purposes - conventional medicine for serious treatment, and traditional remedies for comfort and personal control. They can coexist without being officially combined.
+
+**Interviewer:** What additional support would you like to receive regarding pain management?
+**Patient:** I would appreciate access to knowledgeable practitioners who could advise on the safest and most effective herbal approaches for elderly patients with throat cancer.
+
+**Interviewer:** Would you like to participate in future research?
+**Patient:** Yes, I would be willing to participate, particularly if the research could help other elderly patients understand their options for comfortable aging with serious illness.
+
+---
+
+Interview concluded. Patient demonstrated wisdom from age and experience, showing thoughtful consideration of both traditional and modern approaches to care.
+
+====TRANSCRIPT: PATIENT_011====
+
+Source: palliative_data.csv — row PATIENT_011 (facts only). Generated using Appendix I questionnaire and Esther transcript format.
+
+Transcript: PATIENT_011
+
+Interviewer (KNH, Palliative Unit): Thank you for agreeing to participate in this research study about complementary and alternative medicine use in palliative care. Your responses will remain confidential and help us better understand patient experiences with these therapies.
+
+**Section 1: Demographic Information**
+
+**Interviewer:** How old are you?
+**Patient:** I'm 36 years old. (voice shows weariness beyond years)
+
+**Interviewer:** What is your gender?
+**Patient:** Male.
+
+**Interviewer:** What is your level of education?
+**Patient:** I have a college degree. (pause) I studied computer science and worked in IT before my diagnosis changed everything.
+
+**Interviewer:** What is your main diagnosis for palliative care?
+**Patient:** Lung cancer. (voice becomes quieter, occasional cough) It's advanced and affects my breathing significantly. The focus now is on managing symptoms rather than cure.
+
+**Interviewer:** How long have you been receiving palliative care?
+**Patient:** About a year and a half. (reflective, tired tone) It's been a long journey of adjusting expectations and learning to cope with declining function.
+
+**Section 2: Awareness and Use**
+
+**Interviewer:** Have you ever used any type of alternative therapy or method for pain management?
+**Patient:** Yes, I have tried herbal remedies. (hesitant tone) My family encouraged me to explore natural options that might help complement my medical treatment.
+
+**Interviewer:** How did you learn about these options?
+**Patient:** Through my family. (voice flat) They researched different herbal approaches online and through community networks, hoping to find something that might help with my symptoms.
+
+**Interviewer:** Which of these methods have you tried?
+**Patient:** Herbal remedies mainly - teas and supplements that were supposed to help with breathing, reduce inflammation, or boost energy. (pauses, coughs slightly) I tried various preparations over several months.
+
+**Interviewer:** How often do you use these methods?
+**Patient:** Daily. (matter-of-fact tone) I was taking herbal supplements with meals and drinking specialized teas throughout the day, hoping they would make some difference in how I felt.
+
+**Section 3: Effectiveness and Satisfaction**
+
+**Interviewer:** How effective have they been in controlling your pain?
+**Patient:** Not effective at all. (voice becomes flat, disappointed) Despite using them consistently for months, I didn't notice any improvement in my breathing, energy levels, or overall comfort.
+
+**Interviewer:** Compared to hospital medicines, how would you rate these alternative therapies?
+**Patient:** Less effective than conventional medicines. (pragmatic tone) The hospital medications at least provide some symptom relief, while the herbal remedies seemed to do nothing for me personally.
+
+**Interviewer:** Have you ever experienced any side effects from these therapies?
+**Patient:** Yes, I did experience side effects from the herbal treatments. (voice shows frustration)
+
+**Interviewer:** Please explain those side effects.
+**Patient:** I experienced fatigue, nausea, and vomiting. (voice strained) It's hard to know if these were from the herbs, my condition getting worse, or interactions with my medications, but they seemed to get worse when I was taking multiple herbal supplements.
+
+**Interviewer:** Have these treatments improved your overall quality of life?
+**Patient:** No, they haven't improved my quality of life. (direct, honest tone) If anything, the side effects made some days worse, and the disappointment of them not working was emotionally difficult.
+
+**Interviewer:** Do you feel you have more control over your pain because of these methods?
+**Patient:** No, I don't feel more in control. (voice shows frustration) The lack of effectiveness and the side effects made me feel like I was wasting time and energy on approaches that weren't helping my situation.
+
+**Section 4: Communication and Decision-Making**
+
+**Interviewer:** Have you discussed your use of alternative therapy with your healthcare provider?
+**Patient:** No, I didn't mention it to my medical team. (defensive tone)
+
+**Interviewer:** Why not?
+**Patient:** I didn't think it was necessary. (pauses) Since the herbs weren't helping and were possibly causing side effects, I didn't see the point in bringing it up. I was embarrassed that I'd wasted time on ineffective treatments.
+
+**Interviewer:** Has the healthcare provider shown support?
+**Patient:** Not applicable since I haven't discussed alternative therapies with them.
+
+**Section 5: Barriers and Challenges**
+
+**Interviewer:** What challenges have you faced?
+**Patient:** None in terms of access - my main challenge was that the treatments simply didn't work for me despite having no barriers to trying them.
+
+**Interviewer:** What would motivate you to use them more regularly?
+**Patient:** More research and proven effectiveness would be essential. (voice firm) I would need to see solid scientific evidence that specific treatments actually work for lung cancer symptoms before I would consider trying alternative approaches again.
+
+**Section 6: Final Thoughts**
+
+**Interviewer:** Do you believe alternative therapies should be officially included in conventional care?
+**Patient:** No, I don't think they should be integrated into mainstream care. (definitive tone) Based on my experience, I'm skeptical about their effectiveness, and I worry that including unproven treatments might give patients false hope or delay effective care.
+
+**Interviewer:** What additional support would you like to receive regarding pain management?
+**Patient:** I would prefer to focus on improving the conventional treatments available - better pain medications, more effective symptom management, and clearer information about what treatments have solid evidence behind them.
+
+**Interviewer:** Would you like to participate in future research?
+**Patient:** Yes, I would be willing to participate in research, particularly studies that rigorously test whether alternative treatments actually provide benefits, so other patients can make informed decisions.
+
+---
+
+Interview concluded. Patient demonstrated clear disappointment with alternative therapies and emphasized the importance of evidence-based treatment approaches.
+
+====TRANSCRIPT: PATIENT_012====
+
+Source: palliative_data.csv — row PATIENT_012 (facts only). Generated using Appendix I questionnaire and Esther transcript format.
+
+Transcript: PATIENT_012
+
+Interviewer (KNH, Palliative Unit): Thank you for agreeing to participate in this research study about complementary and alternative medicine use in palliative care. Your responses will remain confidential and help us better understand patient experiences with these therapies.
+
+**Section 1: Demographic Information**
+
+**Interviewer:** How old are you?
+**Patient:** I am 78 years old. (voice gentle, showing age but clarity)
+
+**Interviewer:** What is your gender?
+**Patient:** Female.
+
+**Interviewer:** What is your level of education?
+**Patient:** I have a college degree. (slight pride) I studied nursing and worked in hospitals for over thirty years before retirement.
+
+**Interviewer:** What is your main diagnosis for palliative care?
+**Patient:** Cervical cancer. (voice becomes more serious) At my age and with the extent of the disease, the doctors decided palliative care was the most appropriate approach for maintaining comfort.
+
+**Interviewer:** How long have you been receiving palliative care?
+**Patient:** About eight months now. (thoughtful) Having worked in hospitals my whole career, I understand what this transition means and what to expect.
+
+**Section 2: Awareness and Use**
+
+**Interviewer:** Have you ever used any type of alternative therapy or method for pain management?
+**Patient:** Yes, I have used herbal remedies. (confident tone) My nursing background makes me cautious, but my family convinced me to try some gentle approaches alongside my medical treatment.
+
+**Interviewer:** How did you learn about these options?
+**Patient:** Through my family mainly. (voice warms) My daughter and granddaughters researched herbal approaches that might help with the specific symptoms I'm experiencing from cervical cancer.
+
+**Interviewer:** Which of these methods have you tried?
+**Patient:** Herbal remedies - primarily teas and gentle preparations that are supposed to help with inflammation and general comfort. (pauses) My nursing knowledge helps me choose approaches that seem safest.
+
+**Interviewer:** How often do you use these methods?
+**Patient:** Daily. (matter-of-fact) I prepare herbal teas as part of my morning and evening routine. At my age, having comforting rituals is important for maintaining structure and dignity.
+
+**Section 3: Effectiveness and Satisfaction**
+
+**Interviewer:** How effective have they been in controlling your pain?
+**Patient:** Somewhat effective. (measured tone) The herbal preparations provide mild comfort and seem to help with some of the general discomfort, though they're not strong enough for severe pain episodes.
+
+**Interviewer:** Compared to hospital medicines, how would you rate these alternative therapies?
+**Patient:** Less effective than conventional medicines for actual pain control. (professional assessment) But they provide a different kind of comfort - more emotional and psychological support than direct symptom relief.
+
+**Interviewer:** Have you ever experienced any side effects from these therapies?
+**Patient:** No, I haven't experienced any adverse effects from the herbal preparations I use. (confident) My nursing background helps me choose gentle approaches and monitor for any problems.
+
+**Interviewer:** Please explain those side effects.
+**Patient:** Not applicable - I've been careful to select mild herbal preparations that don't cause any negative reactions.
+
+**Interviewer:** Have these treatments improved your overall quality of life?
+**Patient:** Yes, they have improved my quality of life. (voice becomes warmer) Not necessarily through direct symptom relief, but by giving me something positive to focus on and a sense of participating actively in my care.
+
+**Interviewer:** Do you feel you have more control over your pain because of these methods?
+**Patient:** Yes, I do feel more control. (emphatic) As a nurse, I know how important it is for patients to feel they can do something for themselves rather than being completely dependent on others for care.
+
+**Section 4: Communication and Decision-Making**
+
+**Interviewer:** Have you discussed your use of alternative therapy with your healthcare provider?
+**Patient:** No, I haven't brought it up with my current medical team. (hesitant)
+
+**Interviewer:** Why not?
+**Patient:** The provider never asked about it specifically. (pauses) And since I'm using very mild preparations and monitoring myself carefully with my nursing knowledge, I didn't think it was necessary to mention unless directly asked.
+
+**Interviewer:** Has the healthcare provider shown support?
+**Patient:** Since I haven't discussed it with them, I don't know what their position would be on complementary approaches.
+
+**Section 5: Barriers and Challenges**
+
+**Interviewer:** What challenges have you faced?
+**Patient:** Lack of healthcare provider support and high cost are the main barriers. (voice shows mild frustration) It would be helpful if the medical team actively asked about and supported safe complementary approaches, and the costs do add up on a fixed retirement income.
+
+**Interviewer:** What would motivate you to use them more regularly?
+**Patient:** More research and proven effectiveness would be very important. (professional tone) As a nurse, I believe in evidence-based practice, so having scientific studies about which herbal approaches actually work would help me make better decisions.
+
+**Section 6: Final Thoughts**
+
+**Interviewer:** Do you believe alternative therapies should be officially included in conventional care?
+**Patient:** Yes, I believe CAM should be integrated into mainstream palliative care. (voice becomes animated) From my nursing experience, I know that patient comfort involves more than just medical treatment - gentle complementary approaches can address psychological and spiritual needs too.
+
+**Interviewer:** What additional support would you like to receive regarding pain management?
+**Patient:** I would appreciate having healthcare providers who are knowledgeable about safe complementary approaches and can provide professional guidance on what might be appropriate for elderly patients with my specific condition.
+
+**Interviewer:** Would you like to participate in future research?
+**Patient:** Yes, I would be very interested in participating, especially research that looks at gentle, safe approaches for elderly patients in palliative care. My nursing background might be helpful in providing detailed observations.
+
+---
+
+Interview concluded. Patient brought valuable professional perspective from her nursing background while demonstrating thoughtful integration of gentle complementary approaches.
+
+====TRANSCRIPT: PATIENT_013====
+
+Source: palliative_data.csv — row PATIENT_013 (facts only). Generated using Appendix I questionnaire and Esther transcript format.
+
+Transcript: PATIENT_013
+
+Interviewer (KNH, Palliative Unit): Thank you for agreeing to participate in this research study about complementary and alternative medicine use in palliative care. Your responses will remain confidential and help us better understand patient experiences with these therapies.
+
+**Section 1: Demographic Information**
+
+**Interviewer:** How old are you?
+**Patient:** I am 66 years old. (voice steady, mature)
+
+**Interviewer:** What is your gender?
+**Patient:** Female.
+
+**Interviewer:** What is your level of education?
+**Patient:** I have a college degree. (confident tone) I studied business and worked in administration for most of my career.
+
+**Interviewer:** What is your main diagnosis for palliative care?
+**Patient:** Sinus cancer. (touches face area gently) It affects my breathing and causes significant facial pain and pressure, similar to what some other patients here experience.
+
+**Interviewer:** How long have you been receiving palliative care?
+**Patient:** Less than six months. (thoughtful) It's still relatively new for me - I'm learning to adapt to this approach to managing my condition.
+
+**Section 2: Awareness and Use**
+
+**Interviewer:** Have you ever used any type of alternative therapy or method for pain management?
+**Patient:** Yes, I have tried aromatherapy. (voice brightens slightly) My family suggested it might help with both the physical discomfort and the stress of dealing with cancer.
+
+**Interviewer:** How did you learn about these options?
+**Patient:** Through my family. (voice warms) They researched different approaches that might complement my medical treatment and found that aromatherapy has been used to help cancer patients with relaxation and symptom management.
+
+**Interviewer:** Which of these methods have you tried?
+**Patient:** Aromatherapy using essential oils - both in diffusers and applied topically in diluted form. (becomes more animated) I use different scents depending on whether I'm trying to ease sinus pressure, relax, or energize myself.
+
+**Interviewer:** How often do you use these methods?
+**Patient:** Daily. (emphatic) I use aromatherapy every day, sometimes multiple times depending on my symptoms and stress levels. It's become an important part of my self-care routine.
+
+**Section 3: Effectiveness and Satisfaction**
+
+**Interviewer:** How effective have they been in controlling your pain?
+**Patient:** Very effective. (voice shows conviction) The aromatherapy really does seem to help with the sinus pressure and facial pain. Certain oils like eucalyptus help me breathe easier, and lavender helps with overall relaxation.
+
+**Interviewer:** Compared to hospital medicines, how would you rate these alternative therapies?
+**Patient:** Equally effective. (thoughtful tone) They work differently than my medications - the medicines handle the intense pain, but the aromatherapy provides ongoing comfort throughout the day and helps prevent stress from making my symptoms worse.
+
+**Interviewer:** Have you ever experienced any side effects from these therapies?
+**Patient:** No, I haven't experienced any negative side effects from aromatherapy.
+
+**Interviewer:** Please explain those side effects.
+**Patient:** Not applicable - the essential oils have been gentle and haven't caused any adverse reactions when used properly.
+
+**Interviewer:** Have these treatments improved your overall quality of life?
+**Patient:** Yes, significantly. (voice becomes stronger) The aromatherapy helps me feel more comfortable throughout the day and gives me tools to manage both physical symptoms and emotional stress.
+
+**Interviewer:** Do you feel you have more control over your pain because of these methods?
+**Patient:** Yes, absolutely. (emphatic) Being able to choose different oils based on how I'm feeling and what symptoms I'm experiencing gives me an active role in managing my comfort hour by hour.
+
+**Section 4: Communication and Decision-Making**
+
+**Interviewer:** Have you discussed your use of alternative therapy with your healthcare provider?
+**Patient:** Yes, I have mentioned it to my medical team. (confident tone) I believe in being completely open about all aspects of my care approach.
+
+**Interviewer:** Why?
+**Patient:** I want my healthcare providers to understand the full picture of how I'm managing my condition. (pauses) Also, I wanted to make sure there were no concerns about using essential oils with my particular type of cancer or medications.
+
+**Interviewer:** Has the healthcare provider shown support?
+**Patient:** Not specified in terms of active encouragement, but they seemed pleased that I was taking proactive steps to manage stress and symptoms, and they didn't raise any concerns about the aromatherapy approach.
+
+**Section 5: Barriers and Challenges**
+
+**Interviewer:** What challenges have you faced?
+**Patient:** Limited availability has been the main challenge. (slight frustration in voice) Finding high-quality essential oils consistently, especially specific blends that work best for sinus-related symptoms, can be difficult depending on what local suppliers have in stock.
+
+**Interviewer:** What would motivate you to use them more regularly?
+**Patient:** More research and proven effectiveness would be helpful. (thoughtful) While I'm convinced of the benefits from my own experience, having scientific studies about which essential oils work best for specific cancer symptoms would help me optimize my approach.
+
+**Section 6: Final Thoughts**
+
+**Interviewer:** Do you believe alternative therapies should be officially included in conventional care?
+**Patient:** Yes, I strongly believe CAM should be integrated into mainstream palliative care. (voice becomes animated) Aromatherapy and other gentle approaches can provide real comfort and empowerment for patients without interfering with conventional treatment.
+
+**Interviewer:** What additional support would you like to receive regarding pain management?
+**Patient:** I would love to have access to practitioners who specialize in using aromatherapy for cancer patients, and perhaps guidance on creating personalized blends for specific symptoms that sinus cancer patients experience.
+
+**Interviewer:** Would you like to participate in future research?
+**Patient:** Yes, I would be very interested in participating, especially if the research focuses on how specific essential oils can be used effectively for sinus cancer symptoms and stress management.
+
+---
+
+Interview concluded. Patient demonstrated strong conviction about the benefits of aromatherapy and provided detailed insights about its practical application in managing sinus cancer symptoms.
 
 ---
 
 END OF ALL TRANSCRIPTS
 
-Generated: September 25, 2025
-Total Patients: 13 (PATIENT_001 through PATIENT_013)
+Generated: 2025-09-25 09:46 UTC
+Total Patients: 13 (PATIENT_001, PATIENT_002, PATIENT_003, PATIENT_004, PATIENT_005, PATIENT_006, PATIENT_007, PATIENT_008, PATIENT_009, PATIENT_010, PATIENT_011, PATIENT_012, PATIENT_013)
 Source: palliative_data.csv
 Format: Appendix I questionnaire structure with Esther transcript style
