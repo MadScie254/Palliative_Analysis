@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "source_file": "palliative_data.csv",
+    "questionnaire_structure": "Appendix I format",
+    "transcript_format": "Esther transcript style",
+    "generation_date": "2025-09-25",
+    "total_transcripts": 13
+  },
+  "transcripts": [
+    {
+      "patient_id": "PATIENT_001",
+      "created_filename": "transcript_PATIENT_001.docx",
+      "used_csv_row_exists": true,
+      "notes": "61F, bone cancer, 6mo-1yr palliative care, uses massage/spiritual/herbal daily, very effective, fears provider disapproval"
+    },
+    {
+      "patient_id": "PATIENT_002",
+      "created_filename": "transcript_PATIENT_002.docx",
+      "used_csv_row_exists": true,
+      "notes": "31M, neck cancer, 6mo-1yr palliative care, uses massage/acupuncture occasionally, very effective, disclosed to provider, cost barrier"
+    },
+    {
+      "patient_id": "PATIENT_003",
+      "created_filename": "transcript_PATIENT_003.docx",
+      "used_csv_row_exists": true,
+      "notes": "71M, stomach cancer, 6mo-1yr palliative care, uses anti-inflammatory foods daily, very effective, disclosed to provider"
+    },
+    {
+      "patient_id": "PATIENT_004",
+      "created_filename": "transcript_PATIENT_004.docx",
+      "used_csv_row_exists": true,
+      "notes": "42M, cancer, <6mo palliative care, never used CAM, wants more research and proven effectiveness"
+    },
+    {
+      "patient_id": "PATIENT_005",
+      "created_filename": "transcript_PATIENT_005.docx",
+      "used_csv_row_exists": true,
+      "notes": "35F, sinus cancer, 1-2yr palliative care, uses herbal daily, not effective, provider never asked, cost/availability barriers"
+    },
+    {
+      "patient_id": "PATIENT_006",
+      "created_filename": "transcript_PATIENT_006.docx",
+      "used_csv_row_exists": true,
+      "notes": "62F, cancer, <6mo palliative care, uses aromatherapy weekly, not effective, didn't think necessary to disclose"
+    },
+    {
+      "patient_id": "PATIENT_007",
+      "created_filename": "transcript_PATIENT_007.docx",
+      "used_csv_row_exists": true,
+      "notes": "54F, breast cancer, 1-2yr palliative care, uses herbal daily, very effective, didn't think necessary to disclose, cost barrier"
+    },
+    {
+      "patient_id": "PATIENT_008",
+      "created_filename": "transcript_PATIENT_008.docx",
+      "used_csv_row_exists": true,
+      "notes": "32F, limb cancer, <6mo palliative care, uses massage weekly, somewhat effective, disclosed to provider, provider/family skepticism barriers"
+    },
+    {
+      "patient_id": "PATIENT_009",
+      "created_filename": "transcript_PATIENT_009.docx",
+      "used_csv_row_exists": true,
+      "notes": "55M, throat cancer, 6mo-1yr palliative care, uses herbal/prayers occasionally, very effective, disclosed to provider, cost/availability barriers"
+    },
+    {
+      "patient_id": "PATIENT_010",
+      "created_filename": "transcript_PATIENT_010.docx",
+      "used_csv_row_exists": true,
+      "notes": "73M, throat cancer, 1-2yr palliative care, uses herbal daily, very effective, disclosed to provider, availability barrier, opposes integration"
+    },
+    {
+      "patient_id": "PATIENT_011",
+      "created_filename": "transcript_PATIENT_011.docx",
+      "used_csv_row_exists": true,
+      "notes": "36M, lung cancer, 1-2yr palliative care, uses herbal daily, not effective with side effects (fatigue/nausea/vomiting), didn't disclose, opposes integration"
+    },
+    {
+      "patient_id": "PATIENT_012",
+      "created_filename": "transcript_PATIENT_012.docx",
+      "used_csv_row_exists": true,
+      "notes": "78F, cervical cancer, 6mo-1yr palliative care, uses herbal daily, somewhat effective, provider never asked, provider support/cost barriers"
+    },
+    {
+      "patient_id": "PATIENT_013",
+      "created_filename": "transcript_PATIENT_013.docx",
+      "used_csv_row_exists": true,
+      "notes": "66F, sinus cancer, <6mo palliative care, uses aromatherapy daily, very effective, disclosed to provider, availability barrier"
+    }
+  ]
+}

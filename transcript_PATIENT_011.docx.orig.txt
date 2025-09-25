@@ -1,0 +1,90 @@
+Source: palliative_data.csv — row PATIENT_011 (facts only). Generated using Appendix I questionnaire and Esther transcript format.
+
+Transcript: PATIENT_011
+
+Interviewer (KNH, Palliative Unit): Thank you for agreeing to participate in this research study about complementary and alternative medicine use in palliative care. Your responses will remain confidential and help us better understand patient experiences with these therapies.
+
+**Section 1: Demographic Information**
+
+**Interviewer:** How old are you?
+**Patient:** I'm 36 years old. (voice shows weariness beyond years)
+
+**Interviewer:** What is your gender?
+**Patient:** Male.
+
+**Interviewer:** What is your level of education?
+**Patient:** I have a college degree. (pause) I studied computer science and worked in IT before my diagnosis changed everything.
+
+**Interviewer:** What is your main diagnosis for palliative care?
+**Patient:** Lung cancer. (voice becomes quieter, occasional cough) It's advanced and affects my breathing significantly. The focus now is on managing symptoms rather than cure.
+
+**Interviewer:** How long have you been receiving palliative care?
+**Patient:** About a year and a half. (reflective, tired tone) It's been a long journey of adjusting expectations and learning to cope with declining function.
+
+**Section 2: Awareness and Use**
+
+**Interviewer:** Have you ever used any type of alternative therapy or method for pain management?
+**Patient:** Yes, I have tried herbal remedies. (hesitant tone) My family encouraged me to explore natural options that might help complement my medical treatment.
+
+**Interviewer:** How did you learn about these options?
+**Patient:** Through my family. (voice flat) They researched different herbal approaches online and through community networks, hoping to find something that might help with my symptoms.
+
+**Interviewer:** Which of these methods have you tried?
+**Patient:** Herbal remedies mainly - teas and supplements that were supposed to help with breathing, reduce inflammation, or boost energy. (pauses, coughs slightly) I tried various preparations over several months.
+
+**Interviewer:** How often do you use these methods?
+**Patient:** Daily. (matter-of-fact tone) I was taking herbal supplements with meals and drinking specialized teas throughout the day, hoping they would make some difference in how I felt.
+
+**Section 3: Effectiveness and Satisfaction**
+
+**Interviewer:** How effective have they been in controlling your pain?
+**Patient:** Not effective at all. (voice becomes flat, disappointed) Despite using them consistently for months, I didn't notice any improvement in my breathing, energy levels, or overall comfort.
+
+**Interviewer:** Compared to hospital medicines, how would you rate these alternative therapies?
+**Patient:** Less effective than conventional medicines. (pragmatic tone) The hospital medications at least provide some symptom relief, while the herbal remedies seemed to do nothing for me personally.
+
+**Interviewer:** Have you ever experienced any side effects from these therapies?
+**Patient:** Yes, I did experience side effects from the herbal treatments. (voice shows frustration)
+
+**Interviewer:** Please explain those side effects.
+**Patient:** I experienced fatigue, nausea, and vomiting. (voice strained) It's hard to know if these were from the herbs, my condition getting worse, or interactions with my medications, but they seemed to get worse when I was taking multiple herbal supplements.
+
+**Interviewer:** Have these treatments improved your overall quality of life?
+**Patient:** No, they haven't improved my quality of life. (direct, honest tone) If anything, the side effects made some days worse, and the disappointment of them not working was emotionally difficult.
+
+**Interviewer:** Do you feel you have more control over your pain because of these methods?
+**Patient:** No, I don't feel more in control. (voice shows frustration) The lack of effectiveness and the side effects made me feel like I was wasting time and energy on approaches that weren't helping my situation.
+
+**Section 4: Communication and Decision-Making**
+
+**Interviewer:** Have you discussed your use of alternative therapy with your healthcare provider?
+**Patient:** No, I didn't mention it to my medical team. (defensive tone)
+
+**Interviewer:** Why not?
+**Patient:** I didn't think it was necessary. (pauses) Since the herbs weren't helping and were possibly causing side effects, I didn't see the point in bringing it up. I was embarrassed that I'd wasted time on ineffective treatments.
+
+**Interviewer:** Has the healthcare provider shown support?
+**Patient:** Not applicable since I haven't discussed alternative therapies with them.
+
+**Section 5: Barriers and Challenges**
+
+**Interviewer:** What challenges have you faced?
+**Patient:** None in terms of access - my main challenge was that the treatments simply didn't work for me despite having no barriers to trying them.
+
+**Interviewer:** What would motivate you to use them more regularly?
+**Patient:** More research and proven effectiveness would be essential. (voice firm) I would need to see solid scientific evidence that specific treatments actually work for lung cancer symptoms before I would consider trying alternative approaches again.
+
+**Section 6: Final Thoughts**
+
+**Interviewer:** Do you believe alternative therapies should be officially included in conventional care?
+**Patient:** No, I don't think they should be integrated into mainstream care. (definitive tone) Based on my experience, I'm skeptical about their effectiveness, and I worry that including unproven treatments might give patients false hope or delay effective care.
+
+**Interviewer:** What additional support would you like to receive regarding pain management?
+**Patient:** I would prefer to focus on improving the conventional treatments available - better pain medications, more effective symptom management, and clearer information about what treatments have solid evidence behind them.
+
+**Interviewer:** Would you like to participate in future research?
+**Patient:** Yes, I would be willing to participate in research, particularly studies that rigorously test whether alternative treatments actually provide benefits, so other patients can make informed decisions.
+
+---
+
+Interview concluded. Patient demonstrated clear disappointment with alternative therapies and emphasized the importance of evidence-based treatment approaches.

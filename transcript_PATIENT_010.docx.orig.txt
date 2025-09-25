@@ -1,0 +1,90 @@
+Source: palliative_data.csv — row PATIENT_010 (facts only). Generated using Appendix I questionnaire and Esther transcript format.
+
+Transcript: PATIENT_010
+
+Interviewer (KNH, Palliative Unit): Thank you for agreeing to participate in this research study about complementary and alternative medicine use in palliative care. Your responses will remain confidential and help us better understand patient experiences with these therapies.
+
+**Section 1: Demographic Information**
+
+**Interviewer:** How old are you?
+**Patient:** I am 73 years old. (voice steady, elderly wisdom evident)
+
+**Interviewer:** What is your gender?
+**Patient:** Male.
+
+**Interviewer:** What is your level of education?
+**Patient:** I have a college degree. (slight pride) I studied agriculture and worked as an extension officer before retirement.
+
+**Interviewer:** What is your main diagnosis for palliative care?
+**Patient:** Throat cancer. (voice becomes more serious, slightly hoarse) It's similar to what my younger colleague has, but at my age the approach is different - more focused on comfort.
+
+**Interviewer:** How long have you been receiving palliative care?
+**Patient:** About a year and a half now. (reflective) At my age, this shift to palliative care feels more natural - it's about making the time I have left as comfortable as possible.
+
+**Section 2: Awareness and Use**
+
+**Interviewer:** Have you ever used any type of alternative therapy or method for pain management?
+**Patient:** Yes, I have tried herbal remedies. (nods slowly) My family encouraged me to try natural approaches that might help with the throat discomfort.
+
+**Interviewer:** How did you learn about these options?
+**Patient:** Through my family mainly. (voice warms) My children and grandchildren researched different herbal remedies that might help with throat cancer symptoms and general well-being.
+
+**Interviewer:** Which of these methods have you tried?
+**Patient:** Herbal remedies - mostly teas and preparations made from local herbs that are supposed to help with inflammation and throat comfort. (pauses) My agricultural background helps me understand which plants might be beneficial.
+
+**Interviewer:** How often do you use these methods?
+**Patient:** Daily. (matter-of-fact) I prepare herbal teas every morning and evening. At my age, routines become very important, and this has become part of how I care for myself.
+
+**Section 3: Effectiveness and Satisfaction**
+
+**Interviewer:** How effective have they been in controlling your pain?
+**Patient:** Very effective. (voice shows satisfaction) The herbal preparations do seem to ease the throat irritation and provide some comfort that complements my medical treatments.
+
+**Interviewer:** Compared to hospital medicines, how would you rate these alternative therapies?
+**Patient:** I'm not sure how to compare them directly. (thoughtful) They work differently - the hospital medicines are stronger for acute symptoms, but the herbs provide a gentler, ongoing comfort throughout the day.
+
+**Interviewer:** Have you ever experienced any side effects from these therapies?
+**Patient:** No, I haven't experienced any negative side effects from the herbal preparations I use.
+
+**Interviewer:** Please explain those side effects.
+**Patient:** Not applicable - the herbal remedies have been gentle on my system without causing any adverse reactions.
+
+**Interviewer:** Have these treatments improved your overall quality of life?
+**Patient:** Yes, they have. (voice becomes stronger) I feel more comfortable throughout the day, and having something natural to turn to gives me a sense of continuity with traditional healing methods.
+
+**Interviewer:** Do you feel you have more control over your pain because of these methods?
+**Patient:** Yes, definitely. (emphatic) Being able to prepare my own herbal teas and take an active role in my daily comfort gives me dignity and control when so much else is out of my hands.
+
+**Section 4: Communication and Decision-Making**
+
+**Interviewer:** Have you discussed your use of alternative therapy with your healthcare provider?
+**Patient:** Yes, I have mentioned it to my doctors. (confident tone) At my age and with my background, I believe in being straightforward about everything I'm doing.
+
+**Interviewer:** Why?
+**Patient:** I want my medical team to understand my complete approach to managing my condition. (pauses) Also, I want to make sure there are no interactions between the herbs and my medications.
+
+**Interviewer:** Has the healthcare provider shown support?
+**Patient:** Not specified in terms of active encouragement, but they seem to respect my choices and haven't discouraged approaches that are bringing me comfort.
+
+**Section 5: Barriers and Challenges**
+
+**Interviewer:** What challenges have you faced?
+**Patient:** Limited availability is the main challenge. (sighs) Finding consistent sources of good quality herbs, especially seasonal ones, can be difficult. Some of the most effective preparations aren't always available.
+
+**Interviewer:** What would motivate you to use them more regularly?
+**Patient:** More research and proven effectiveness would be valuable. (thoughtful) Even though I have agricultural knowledge, scientific studies about which herbs work best for throat cancer would help me make better choices.
+
+**Section 6: Final Thoughts**
+
+**Interviewer:** Do you believe alternative therapies should be officially included in conventional care?
+**Patient:** No, I don't think they should necessarily be integrated. (firm tone) I think they serve different purposes - conventional medicine for serious treatment, and traditional remedies for comfort and personal control. They can coexist without being officially combined.
+
+**Interviewer:** What additional support would you like to receive regarding pain management?
+**Patient:** I would appreciate access to knowledgeable practitioners who could advise on the safest and most effective herbal approaches for elderly patients with throat cancer.
+
+**Interviewer:** Would you like to participate in future research?
+**Patient:** Yes, I would be willing to participate, particularly if the research could help other elderly patients understand their options for comfortable aging with serious illness.
+
+---
+
+Interview concluded. Patient demonstrated wisdom from age and experience, showing thoughtful consideration of both traditional and modern approaches to care.

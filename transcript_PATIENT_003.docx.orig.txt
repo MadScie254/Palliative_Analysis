@@ -1,0 +1,90 @@
+Source: palliative_data.csv — row PATIENT_003 (facts only). Generated using Appendix I questionnaire and Esther transcript format.
+
+Transcript: PATIENT_003
+
+Interviewer (KNH, Palliative Unit): Thank you for agreeing to participate in this research study about complementary and alternative medicine use in palliative care. Your responses will remain confidential and help us better understand patient experiences with these therapies.
+
+**Section 1: Demographic Information**
+
+**Interviewer:** How old are you?
+**Patient:** I am 71 years old. (voice calm, measured)
+
+**Interviewer:** What is your gender?
+**Patient:** Male.
+
+**Interviewer:** What is your level of education?
+**Patient:** I completed secondary school. (pauses) Did my O-levels and worked for many years before retirement.
+
+**Interviewer:** What is your main diagnosis for palliative care?
+**Patient:** Stomach cancer. (voice becomes quieter) It's advanced now, and the doctors say the focus should be on comfort and managing symptoms rather than aggressive treatments.
+
+**Interviewer:** How long have you been receiving palliative care?
+**Patient:** About eight months now. (thoughtful) It's been a journey of learning to live differently, focusing on what makes each day better.
+
+**Section 2: Awareness and Use**
+
+**Interviewer:** Have you ever used any type of alternative therapy or method for pain management?
+**Patient:** Yes, I have. (nods slowly) I've found that combining different approaches helps me manage better than relying on conventional medicine alone.
+
+**Interviewer:** How did you learn about these options?
+**Patient:** Through my nutritionist, actually. (voice brightens slightly) When I was first diagnosed, I was referred to a nutritionist to help with eating difficulties, and she introduced me to broader concepts about anti-inflammatory approaches.
+
+**Interviewer:** Which of these methods have you tried?
+**Patient:** I focus mainly on anti-inflammatory foods. (voice becomes more animated) I've changed my entire diet to include foods that are supposed to reduce inflammation in the body - things like turmeric, ginger, leafy greens, fish high in omega-3s.
+
+**Interviewer:** How often do you use these methods?
+**Patient:** Daily. (emphatic) Every meal is planned around these principles now. It's become a way of life rather than just a treatment - I think about every food choice in terms of whether it will help or hurt.
+
+**Section 3: Effectiveness and Satisfaction**
+
+**Interviewer:** How effective have they been in controlling your pain?
+**Patient:** Very effective. (voice shows conviction) I notice a real difference in my overall comfort level and energy when I stick strictly to the anti-inflammatory diet versus when I slip back to old eating habits.
+
+**Interviewer:** Compared to hospital medicines, how would you rate these alternative therapies?
+**Patient:** More effective than conventional medicines alone. (pause for emphasis) The medications help with acute pain, but the dietary approach seems to address underlying inflammation that contributes to my discomfort throughout the day.
+
+**Interviewer:** Have you ever experienced any side effects from these therapies?
+**Patient:** No, I haven't experienced any negative side effects from the dietary changes I've made.
+
+**Interviewer:** Please explain those side effects.
+**Patient:** Not applicable - the dietary approach has only had positive effects on my overall well-being.
+
+**Interviewer:** Have these treatments improved your overall quality of life?
+**Patient:** Yes, significantly. (voice becomes stronger) I feel more energetic, my digestion has improved, and I have a sense of actively participating in my care rather than being passive.
+
+**Interviewer:** Do you feel you have more control over your pain because of these methods?
+**Patient:** Yes, absolutely. (confident tone) Every meal is a choice I can make to either help or hinder my comfort. That sense of control is psychologically very important when so much else feels out of my hands.
+
+**Section 4: Communication and Decision-Making**
+
+**Interviewer:** Have you discussed your use of alternative therapy with your healthcare provider?
+**Patient:** Yes, I have. (matter-of-fact tone) I believe in being completely open with my medical team about everything I'm doing for my health.
+
+**Interviewer:** Why?
+**Patient:** I want them to understand the full picture of my approach to managing my condition. (pauses) Also, I wanted to make sure there weren't any foods that might interfere with my medications or treatment.
+
+**Interviewer:** Has the healthcare provider shown support?
+**Patient:** Not specified in terms of active encouragement, but they haven't discouraged the dietary approach and seem pleased that I'm taking an active role in my care.
+
+**Section 5: Barriers and Challenges**
+
+**Interviewer:** What challenges have you faced?
+**Patient:** Limited availability has been the main challenge. (sighs) Finding high-quality anti-inflammatory foods consistently, especially fresh items, can be difficult depending on the season and what's available in local markets.
+
+**Interviewer:** What would motivate you to use them more regularly?
+**Patient:** Recommendations from healthcare providers would be very helpful. (voice hopeful) If my doctors actively supported specific dietary approaches or could connect me with specialists who understand both nutrition and cancer care.
+
+**Section 6: Final Thoughts**
+
+**Interviewer:** Do you believe alternative therapies should be officially included in conventional care?
+**Patient:** Yes, definitely. (voice firm) CAM should be integrated into mainstream palliative care. Dietary approaches especially should be part of standard care - nutrition affects everything about how we feel and heal.
+
+**Interviewer:** What additional support would you like to receive regarding pain management?
+**Patient:** I would appreciate having access to a nutritionist who specializes in cancer and palliative care, someone who could provide ongoing guidance as my condition changes and my needs evolve.
+
+**Interviewer:** Would you like to participate in future research?
+**Patient:** Yes, I would be very interested in participating, particularly if the research focused on nutritional approaches to symptom management in palliative care.
+
+---
+
+Interview concluded. Patient demonstrated thoughtful consideration of his approach to self-care and appeared well-informed about the dietary changes he had implemented.

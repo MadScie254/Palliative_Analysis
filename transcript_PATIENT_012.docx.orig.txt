@@ -1,0 +1,90 @@
+Source: palliative_data.csv — row PATIENT_012 (facts only). Generated using Appendix I questionnaire and Esther transcript format.
+
+Transcript: PATIENT_012
+
+Interviewer (KNH, Palliative Unit): Thank you for agreeing to participate in this research study about complementary and alternative medicine use in palliative care. Your responses will remain confidential and help us better understand patient experiences with these therapies.
+
+**Section 1: Demographic Information**
+
+**Interviewer:** How old are you?
+**Patient:** I am 78 years old. (voice gentle, showing age but clarity)
+
+**Interviewer:** What is your gender?
+**Patient:** Female.
+
+**Interviewer:** What is your level of education?
+**Patient:** I have a college degree. (slight pride) I studied nursing and worked in hospitals for over thirty years before retirement.
+
+**Interviewer:** What is your main diagnosis for palliative care?
+**Patient:** Cervical cancer. (voice becomes more serious) At my age and with the extent of the disease, the doctors decided palliative care was the most appropriate approach for maintaining comfort.
+
+**Interviewer:** How long have you been receiving palliative care?
+**Patient:** About eight months now. (thoughtful) Having worked in hospitals my whole career, I understand what this transition means and what to expect.
+
+**Section 2: Awareness and Use**
+
+**Interviewer:** Have you ever used any type of alternative therapy or method for pain management?
+**Patient:** Yes, I have used herbal remedies. (confident tone) My nursing background makes me cautious, but my family convinced me to try some gentle approaches alongside my medical treatment.
+
+**Interviewer:** How did you learn about these options?
+**Patient:** Through my family mainly. (voice warms) My daughter and granddaughters researched herbal approaches that might help with the specific symptoms I'm experiencing from cervical cancer.
+
+**Interviewer:** Which of these methods have you tried?
+**Patient:** Herbal remedies - primarily teas and gentle preparations that are supposed to help with inflammation and general comfort. (pauses) My nursing knowledge helps me choose approaches that seem safest.
+
+**Interviewer:** How often do you use these methods?
+**Patient:** Daily. (matter-of-fact) I prepare herbal teas as part of my morning and evening routine. At my age, having comforting rituals is important for maintaining structure and dignity.
+
+**Section 3: Effectiveness and Satisfaction**
+
+**Interviewer:** How effective have they been in controlling your pain?
+**Patient:** Somewhat effective. (measured tone) The herbal preparations provide mild comfort and seem to help with some of the general discomfort, though they're not strong enough for severe pain episodes.
+
+**Interviewer:** Compared to hospital medicines, how would you rate these alternative therapies?
+**Patient:** Less effective than conventional medicines for actual pain control. (professional assessment) But they provide a different kind of comfort - more emotional and psychological support than direct symptom relief.
+
+**Interviewer:** Have you ever experienced any side effects from these therapies?
+**Patient:** No, I haven't experienced any adverse effects from the herbal preparations I use. (confident) My nursing background helps me choose gentle approaches and monitor for any problems.
+
+**Interviewer:** Please explain those side effects.
+**Patient:** Not applicable - I've been careful to select mild herbal preparations that don't cause any negative reactions.
+
+**Interviewer:** Have these treatments improved your overall quality of life?
+**Patient:** Yes, they have improved my quality of life. (voice becomes warmer) Not necessarily through direct symptom relief, but by giving me something positive to focus on and a sense of participating actively in my care.
+
+**Interviewer:** Do you feel you have more control over your pain because of these methods?
+**Patient:** Yes, I do feel more control. (emphatic) As a nurse, I know how important it is for patients to feel they can do something for themselves rather than being completely dependent on others for care.
+
+**Section 4: Communication and Decision-Making**
+
+**Interviewer:** Have you discussed your use of alternative therapy with your healthcare provider?
+**Patient:** No, I haven't brought it up with my current medical team. (hesitant)
+
+**Interviewer:** Why not?
+**Patient:** The provider never asked about it specifically. (pauses) And since I'm using very mild preparations and monitoring myself carefully with my nursing knowledge, I didn't think it was necessary to mention unless directly asked.
+
+**Interviewer:** Has the healthcare provider shown support?
+**Patient:** Since I haven't discussed it with them, I don't know what their position would be on complementary approaches.
+
+**Section 5: Barriers and Challenges**
+
+**Interviewer:** What challenges have you faced?
+**Patient:** Lack of healthcare provider support and high cost are the main barriers. (voice shows mild frustration) It would be helpful if the medical team actively asked about and supported safe complementary approaches, and the costs do add up on a fixed retirement income.
+
+**Interviewer:** What would motivate you to use them more regularly?
+**Patient:** More research and proven effectiveness would be very important. (professional tone) As a nurse, I believe in evidence-based practice, so having scientific studies about which herbal approaches actually work would help me make better decisions.
+
+**Section 6: Final Thoughts**
+
+**Interviewer:** Do you believe alternative therapies should be officially included in conventional care?
+**Patient:** Yes, I believe CAM should be integrated into mainstream palliative care. (voice becomes animated) From my nursing experience, I know that patient comfort involves more than just medical treatment - gentle complementary approaches can address psychological and spiritual needs too.
+
+**Interviewer:** What additional support would you like to receive regarding pain management?
+**Patient:** I would appreciate having healthcare providers who are knowledgeable about safe complementary approaches and can provide professional guidance on what might be appropriate for elderly patients with my specific condition.
+
+**Interviewer:** Would you like to participate in future research?
+**Patient:** Yes, I would be very interested in participating, especially research that looks at gentle, safe approaches for elderly patients in palliative care. My nursing background might be helpful in providing detailed observations.
+
+---
+
+Interview concluded. Patient brought valuable professional perspective from her nursing background while demonstrating thoughtful integration of gentle complementary approaches.

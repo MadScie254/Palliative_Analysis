@@ -1,0 +1,90 @@
+Source: palliative_data.csv — row PATIENT_004 (facts only). Generated using Appendix I questionnaire and Esther transcript format.
+
+Transcript: PATIENT_004
+
+Interviewer (KNH, Palliative Unit): Thank you for agreeing to participate in this research study about complementary and alternative medicine use in palliative care. Your responses will remain confidential and help us better understand patient experiences with these therapies.
+
+**Section 1: Demographic Information**
+
+**Interviewer:** How old are you?
+**Patient:** I'm 42 years old. (voice steady but tired)
+
+**Interviewer:** What is your gender?
+**Patient:** Male.
+
+**Interviewer:** What is your level of education?
+**Patient:** I have a college degree. (slight pause) University education in engineering before my diagnosis.
+
+**Interviewer:** What is your main diagnosis for palliative care?
+**Patient:** Cancer. (voice becomes quieter) The doctors haven't been specific about all the details with me, but they've moved me to palliative care to focus on comfort.
+
+**Interviewer:** How long have you been receiving palliative care?
+**Patient:** Less than six months. (thoughtful) It's still relatively new for me - I'm still adjusting to this shift in treatment approach.
+
+**Section 2: Awareness and Use**
+
+**Interviewer:** Have you ever used any type of alternative therapy or method for pain management?
+**Patient:** No, I haven't tried any alternative therapies. (definitive tone) I've been focusing entirely on the conventional medical treatments that my doctors have prescribed.
+
+**Interviewer:** How did you learn about these options?
+**Patient:** Not applicable - I haven't actively sought information about alternative therapies.
+
+**Interviewer:** Which of these methods have you tried?
+**Patient:** None. I haven't used any CAM methods. (matter-of-fact) My approach has been to rely entirely on what my medical team recommends.
+
+**Interviewer:** How often do you use these methods?
+**Patient:** Never used CAM. I stick to the prescribed medications and treatments from the hospital.
+
+**Section 3: Effectiveness and Satisfaction**
+
+**Interviewer:** How effective have they been in controlling your pain?
+**Patient:** Not applicable - I can't comment on effectiveness since I haven't used any alternative therapies.
+
+**Interviewer:** Compared to hospital medicines, how would you rate these alternative therapies?
+**Patient:** Not applicable - I have no basis for comparison since I haven't tried alternative approaches.
+
+**Interviewer:** Have you ever experienced any side effects from these therapies?
+**Patient:** No, I haven't experienced any side effects because I haven't used alternative therapies.
+
+**Interviewer:** Please explain those side effects.
+**Patient:** Not applicable - no alternative therapies used, therefore no side effects to report.
+
+**Interviewer:** Have these treatments improved your overall quality of life?
+**Patient:** Not applicable - I can't comment on quality of life improvements from alternative therapies since I haven't used any.
+
+**Interviewer:** Do you feel you have more control over your pain because of these methods?
+**Patient:** Not applicable - my sense of control comes from working closely with my medical team and following their prescribed treatment plan.
+
+**Section 4: Communication and Decision-Making**
+
+**Interviewer:** Have you discussed your use of alternative therapy with your healthcare provider?
+**Patient:** Not applicable - since I haven't used alternative therapies, there hasn't been anything to discuss in this area.
+
+**Interviewer:** Why not?
+**Patient:** I haven't explored alternative options, so there's been no need to discuss them with my healthcare providers.
+
+**Interviewer:** Has the healthcare provider shown support?
+**Patient:** Not applicable - we haven't had discussions about alternative therapies for them to express support or opposition.
+
+**Section 5: Barriers and Challenges**
+
+**Interviewer:** What challenges have you faced?
+**Patient:** Not applicable in terms of alternative therapy challenges, since I haven't attempted to use any such methods.
+
+**Interviewer:** What would motivate you to use them more regularly?
+**Patient:** More research and proven effectiveness would be important to me. (voice becomes more engaged) I would need to see solid scientific evidence that alternative therapies could provide benefits beyond what conventional medicine offers. I'm not opposed to them, but I would want clear proof of safety and effectiveness.
+
+**Section 6: Final Thoughts**
+
+**Interviewer:** Do you believe alternative therapies should be officially included in conventional care?
+**Patient:** I think CAM should be integrated into mainstream palliative care, but only if there's strong research supporting it. (thoughtful tone) I'm not against the idea, but I believe in evidence-based medicine and would want to see rigorous studies proving benefits before recommending integration.
+
+**Interviewer:** What additional support would you like to receive regarding pain management?
+**Patient:** I would appreciate having access to more information about all available options, including alternative therapies, but presented in a scientific, evidence-based way so I can make informed decisions about what might be worth trying.
+
+**Interviewer:** Would you like to participate in future research?
+**Patient:** Yes, I would be interested in participating in research studies, particularly if they could help establish clearer evidence about what works and what doesn't in pain management for cancer patients.
+
+---
+
+Interview concluded. Patient demonstrated a methodical, evidence-based approach to healthcare decisions and expressed openness to alternative approaches if supported by solid research.

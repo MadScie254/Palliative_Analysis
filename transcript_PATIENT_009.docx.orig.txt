@@ -1,0 +1,90 @@
+Source: palliative_data.csv — row PATIENT_009 (facts only). Generated using Appendix I questionnaire and Esther transcript format.
+
+Transcript: PATIENT_009
+
+Interviewer (KNH, Palliative Unit): Thank you for agreeing to participate in this research study about complementary and alternative medicine use in palliative care. Your responses will remain confidential and help us better understand patient experiences with these therapies.
+
+**Section 1: Demographic Information**
+
+**Interviewer:** How old are you?
+**Patient:** I am 55 years old. (voice calm, thoughtful)
+
+**Interviewer:** What is your gender?
+**Patient:** Male.
+
+**Interviewer:** What is your level of education?
+**Patient:** I completed secondary school. (pauses) I worked in construction for many years before my illness.
+
+**Interviewer:** What is your main diagnosis for palliative care?
+**Patient:** Throat cancer. (touches throat area gently) It affects my speaking and swallowing, and the doctors are focusing on keeping me comfortable now.
+
+**Interviewer:** How long have you been receiving palliative care?
+**Patient:** About eight months. (voice slightly hoarse) It's been a difficult adjustment, especially with the throat problems affecting how I communicate.
+
+**Section 2: Awareness and Use**
+
+**Interviewer:** Have you ever used any type of alternative therapy or method for pain management?
+**Patient:** Yes, I have. (nods) I've tried some approaches that I observed others using, and my family has been supportive.
+
+**Interviewer:** How did you learn about these options?
+**Patient:** Through observation mainly. (voice thoughtful) I watched other patients and families in similar situations, and I noticed some approaches that seemed to help them find peace and comfort.
+
+**Interviewer:** Which of these methods have you tried?
+**Patient:** I use herbal remedies - mainly teas that are supposed to help with throat discomfort and inflammation. (pauses) And prayers have become very important to me. I spend time in prayer daily, asking for strength and comfort.
+
+**Interviewer:** How often do you use these methods?
+**Patient:** Occasionally. (reflective) The herbal teas when my throat is particularly uncomfortable, and prayer is more regular - usually morning and evening, and whenever I feel the need for spiritual comfort.
+
+**Section 3: Effectiveness and Satisfaction**
+
+**Interviewer:** How effective have they been in controlling your pain?
+**Patient:** Very effective. (voice shows conviction) The herbal teas do seem to ease some of the throat irritation, and the prayer... (pauses) the prayer gives me a different kind of comfort that helps me cope with the pain emotionally.
+
+**Interviewer:** Compared to hospital medicines, how would you rate these alternative therapies?
+**Patient:** I'm not sure how to compare them directly. (thoughtful tone) The hospital medicines work on the physical symptoms, but the herbal teas and prayer address something deeper - they help me feel more at peace with my situation.
+
+**Interviewer:** Have you ever experienced any side effects from these therapies?
+**Patient:** No, I haven't experienced any negative side effects from either the herbal teas or the prayer practices.
+
+**Interviewer:** Please explain those side effects.
+**Patient:** Not applicable - both approaches have been gentle and only brought comfort without any adverse effects.
+
+**Interviewer:** Have these treatments improved your overall quality of life?
+**Patient:** Yes, they have. (voice becomes stronger) Especially the prayer - it helps me feel less anxious and more accepting of my situation. The herbal teas provide some physical relief too.
+
+**Interviewer:** Do you feel you have more control over your pain because of these methods?
+**Patient:** Yes, I do. (emphatic) Being able to turn to prayer when I'm struggling gives me a sense of agency. And preparing the herbal teas is something active I can do for myself.
+
+**Section 4: Communication and Decision-Making**
+
+**Interviewer:** Have you discussed your use of alternative therapy with your healthcare provider?
+**Patient:** Yes, I have mentioned it to my medical team. (matter-of-fact tone) I believe in being honest about everything I'm doing for my health.
+
+**Interviewer:** Why?
+**Patient:** I wanted them to know the complete picture of how I'm managing my condition. (pauses) Also, I wanted to make sure the herbal teas wouldn't interfere with my medications.
+
+**Interviewer:** Has the healthcare provider shown support?
+**Patient:** Not specified in terms of active encouragement, but they didn't discourage me from continuing with approaches that were bringing me comfort.
+
+**Section 5: Barriers and Challenges**
+
+**Interviewer:** What challenges have you faced?
+**Patient:** Limited availability and high cost have been issues. (voice shows frustration) Finding good quality herbs consistently is difficult, and the costs add up when you're already dealing with medical expenses and reduced income.
+
+**Interviewer:** What would motivate you to use them more regularly?
+**Patient:** More research and proven effectiveness would be helpful. (thoughtful) If there were studies showing which herbal approaches actually work for throat cancer symptoms, I could make better choices about what to invest in.
+
+**Section 6: Final Thoughts**
+
+**Interviewer:** Do you believe alternative therapies should be officially included in conventional care?
+**Patient:** Yes, I believe CAM should be integrated into mainstream palliative care. (voice firm) If these approaches can provide comfort and help patients cope better, they should be available as part of comprehensive care.
+
+**Interviewer:** What additional support would you like to receive regarding pain management?
+**Patient:** I would appreciate guidance on which herbal remedies are most effective and safe for throat cancer patients, and perhaps access to spiritual counseling as part of the hospital services.
+
+**Interviewer:** Would you like to participate in future research?
+**Patient:** Yes, I would be willing to participate if it could help improve care for other patients facing similar challenges with throat cancer.
+
+---
+
+Interview concluded. Patient demonstrated a balanced approach combining practical and spiritual elements in his pain management strategy.

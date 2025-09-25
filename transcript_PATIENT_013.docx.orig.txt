@@ -1,0 +1,90 @@
+Source: palliative_data.csv — row PATIENT_013 (facts only). Generated using Appendix I questionnaire and Esther transcript format.
+
+Transcript: PATIENT_013
+
+Interviewer (KNH, Palliative Unit): Thank you for agreeing to participate in this research study about complementary and alternative medicine use in palliative care. Your responses will remain confidential and help us better understand patient experiences with these therapies.
+
+**Section 1: Demographic Information**
+
+**Interviewer:** How old are you?
+**Patient:** I am 66 years old. (voice steady, mature)
+
+**Interviewer:** What is your gender?
+**Patient:** Female.
+
+**Interviewer:** What is your level of education?
+**Patient:** I have a college degree. (confident tone) I studied business and worked in administration for most of my career.
+
+**Interviewer:** What is your main diagnosis for palliative care?
+**Patient:** Sinus cancer. (touches face area gently) It affects my breathing and causes significant facial pain and pressure, similar to what some other patients here experience.
+
+**Interviewer:** How long have you been receiving palliative care?
+**Patient:** Less than six months. (thoughtful) It's still relatively new for me - I'm learning to adapt to this approach to managing my condition.
+
+**Section 2: Awareness and Use**
+
+**Interviewer:** Have you ever used any type of alternative therapy or method for pain management?
+**Patient:** Yes, I have tried aromatherapy. (voice brightens slightly) My family suggested it might help with both the physical discomfort and the stress of dealing with cancer.
+
+**Interviewer:** How did you learn about these options?
+**Patient:** Through my family. (voice warms) They researched different approaches that might complement my medical treatment and found that aromatherapy has been used to help cancer patients with relaxation and symptom management.
+
+**Interviewer:** Which of these methods have you tried?
+**Patient:** Aromatherapy using essential oils - both in diffusers and applied topically in diluted form. (becomes more animated) I use different scents depending on whether I'm trying to ease sinus pressure, relax, or energize myself.
+
+**Interviewer:** How often do you use these methods?
+**Patient:** Daily. (emphatic) I use aromatherapy every day, sometimes multiple times depending on my symptoms and stress levels. It's become an important part of my self-care routine.
+
+**Section 3: Effectiveness and Satisfaction**
+
+**Interviewer:** How effective have they been in controlling your pain?
+**Patient:** Very effective. (voice shows conviction) The aromatherapy really does seem to help with the sinus pressure and facial pain. Certain oils like eucalyptus help me breathe easier, and lavender helps with overall relaxation.
+
+**Interviewer:** Compared to hospital medicines, how would you rate these alternative therapies?
+**Patient:** Equally effective. (thoughtful tone) They work differently than my medications - the medicines handle the intense pain, but the aromatherapy provides ongoing comfort throughout the day and helps prevent stress from making my symptoms worse.
+
+**Interviewer:** Have you ever experienced any side effects from these therapies?
+**Patient:** No, I haven't experienced any negative side effects from aromatherapy.
+
+**Interviewer:** Please explain those side effects.
+**Patient:** Not applicable - the essential oils have been gentle and haven't caused any adverse reactions when used properly.
+
+**Interviewer:** Have these treatments improved your overall quality of life?
+**Patient:** Yes, significantly. (voice becomes stronger) The aromatherapy helps me feel more comfortable throughout the day and gives me tools to manage both physical symptoms and emotional stress.
+
+**Interviewer:** Do you feel you have more control over your pain because of these methods?
+**Patient:** Yes, absolutely. (emphatic) Being able to choose different oils based on how I'm feeling and what symptoms I'm experiencing gives me an active role in managing my comfort hour by hour.
+
+**Section 4: Communication and Decision-Making**
+
+**Interviewer:** Have you discussed your use of alternative therapy with your healthcare provider?
+**Patient:** Yes, I have mentioned it to my medical team. (confident tone) I believe in being completely open about all aspects of my care approach.
+
+**Interviewer:** Why?
+**Patient:** I want my healthcare providers to understand the full picture of how I'm managing my condition. (pauses) Also, I wanted to make sure there were no concerns about using essential oils with my particular type of cancer or medications.
+
+**Interviewer:** Has the healthcare provider shown support?
+**Patient:** Not specified in terms of active encouragement, but they seemed pleased that I was taking proactive steps to manage stress and symptoms, and they didn't raise any concerns about the aromatherapy approach.
+
+**Section 5: Barriers and Challenges**
+
+**Interviewer:** What challenges have you faced?
+**Patient:** Limited availability has been the main challenge. (slight frustration in voice) Finding high-quality essential oils consistently, especially specific blends that work best for sinus-related symptoms, can be difficult depending on what local suppliers have in stock.
+
+**Interviewer:** What would motivate you to use them more regularly?
+**Patient:** More research and proven effectiveness would be helpful. (thoughtful) While I'm convinced of the benefits from my own experience, having scientific studies about which essential oils work best for specific cancer symptoms would help me optimize my approach.
+
+**Section 6: Final Thoughts**
+
+**Interviewer:** Do you believe alternative therapies should be officially included in conventional care?
+**Patient:** Yes, I strongly believe CAM should be integrated into mainstream palliative care. (voice becomes animated) Aromatherapy and other gentle approaches can provide real comfort and empowerment for patients without interfering with conventional treatment.
+
+**Interviewer:** What additional support would you like to receive regarding pain management?
+**Patient:** I would love to have access to practitioners who specialize in using aromatherapy for cancer patients, and perhaps guidance on creating personalized blends for specific symptoms that sinus cancer patients experience.
+
+**Interviewer:** Would you like to participate in future research?
+**Patient:** Yes, I would be very interested in participating, especially if the research focuses on how specific essential oils can be used effectively for sinus cancer symptoms and stress management.
+
+---
+
+Interview concluded. Patient demonstrated strong conviction about the benefits of aromatherapy and provided detailed insights about its practical application in managing sinus cancer symptoms.

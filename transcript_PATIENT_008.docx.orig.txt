@@ -1,0 +1,90 @@
+Source: palliative_data.csv — row PATIENT_008 (facts only). Generated using Appendix I questionnaire and Esther transcript format.
+
+Transcript: PATIENT_008
+
+Interviewer (KNH, Palliative Unit): Thank you for agreeing to participate in this research study about complementary and alternative medicine use in palliative care. Your responses will remain confidential and help us better understand patient experiences with these therapies.
+
+**Section 1: Demographic Information**
+
+**Interviewer:** How old are you?
+**Patient:** I'm 32 years old. (voice young but weary)
+
+**Interviewer:** What is your gender?
+**Patient:** Female.
+
+**Interviewer:** What is your level of education?
+**Patient:** I have a university degree. (pause) I studied psychology before this all started. It's helped me understand some of the emotional aspects of dealing with serious illness.
+
+**Interviewer:** What is your main diagnosis for palliative care?
+**Patient:** Limb cancer. (touches affected area reflexively) It's in my leg, and the focus has shifted to managing symptoms and maintaining as much mobility as possible.
+
+**Interviewer:** How long have you been receiving palliative care?
+**Patient:** Less than six months. (thoughtful) It's still new territory for me - I'm learning what this means for my future and daily life.
+
+**Section 2: Awareness and Use**
+
+**Interviewer:** Have you ever used any type of alternative therapy or method for pain management?
+**Patient:** Yes, I have tried massage therapy. (voice shows some relief) My family suggested it might help with both the physical discomfort and the emotional stress.
+
+**Interviewer:** How did you learn about these options?
+**Patient:** Through my family. (voice softens) They've been incredibly supportive and researched different approaches that might complement my medical treatment. They found a massage therapist who has experience working with cancer patients.
+
+**Interviewer:** Which of these methods have you tried?
+**Patient:** Massage therapy specifically. (becomes more animated) It's therapeutic massage focused on areas that aren't directly affected by the cancer, to help with overall tension and circulation.
+
+**Interviewer:** How often do you use these methods?
+**Patient:** Weekly. (matter-of-fact) I try to schedule a session every week, though sometimes my energy levels or treatment schedule makes that difficult to maintain consistently.
+
+**Section 3: Effectiveness and Satisfaction**
+
+**Interviewer:** How effective have they been in controlling your pain?
+**Patient:** Somewhat effective. (thoughtful tone) The massage doesn't eliminate the pain from the cancer itself, but it does help with the muscle tension and stiffness that builds up from compensating for the affected limb.
+
+**Interviewer:** Compared to hospital medicines, how would you rate these alternative therapies?
+**Patient:** Less effective than conventional medicines for direct pain control. (realistic assessment) The medications handle the intense pain, but the massage helps with secondary discomfort and stress relief that the medicines don't address.
+
+**Interviewer:** Have you ever experienced any side effects from these therapies?
+**Patient:** No, I haven't experienced any negative side effects from the massage therapy.
+
+**Interviewer:** Please explain those side effects.
+**Patient:** Not applicable - the massage has been gentle and appropriate for my condition without causing any problems.
+
+**Interviewer:** Have these treatments improved your overall quality of life?
+**Patient:** Yes, they have. (voice becomes more positive) The massage sessions give me something to look forward to, and I feel more relaxed and less tense afterward. It's as much about emotional well-being as physical comfort.
+
+**Interviewer:** Do you feel you have more control over your pain because of these methods?
+**Patient:** Yes, to some degree. (thoughtful) While I can't control the cancer pain directly, being able to address the secondary tension and stress gives me a sense of actively managing part of my situation.
+
+**Section 4: Communication and Decision-Making**
+
+**Interviewer:** Have you discussed your use of alternative therapy with your healthcare provider?
+**Patient:** Yes, I have. (confident tone) I believe in being completely open with my medical team about everything I'm doing for my health.
+
+**Interviewer:** Why?
+**Patient:** I want them to have the full picture of my pain management approach. (pauses) Also, with my psychology background, I understand the importance of integrated care and communication between all aspects of treatment.
+
+**Interviewer:** Has the healthcare provider shown support?
+**Patient:** Not specified in terms of active encouragement, but they didn't discourage it and seemed pleased that I was taking a proactive approach to managing stress and secondary symptoms.
+
+**Section 5: Barriers and Challenges**
+
+**Interviewer:** What challenges have you faced?
+**Patient:** Lack of provider support and skepticism from family and friends have been challenges. (voice shows frustration) While my immediate family is supportive, some extended family and friends question whether it's worth the time and money, especially when conventional treatment is the priority.
+
+**Interviewer:** What would motivate you to use them more regularly?
+**Patient:** More availability in hospitals would be ideal. (voice becomes hopeful) If massage therapy or other complementary approaches were available as part of the hospital's palliative care services, it would be much easier to access regularly.
+
+**Section 6: Final Thoughts**
+
+**Interviewer:** Do you believe alternative therapies should be officially included in conventional care?
+**Patient:** Yes, absolutely. (voice animated) CAM should be integrated into mainstream palliative care. These approaches address aspects of patient well-being that conventional medicine sometimes overlooks - the psychological and comfort aspects are just as important as the medical treatment.
+
+**Interviewer:** What additional support would you like to receive regarding pain management?
+**Patient:** I would love to see complementary therapies offered within the hospital setting, with therapists who understand cancer and palliative care. Also, better integration between conventional and alternative approaches.
+
+**Interviewer:** Would you like to participate in future research?
+**Patient:** Yes, I would be very interested in participating, especially if the research focuses on the psychological benefits of complementary approaches for young adults facing serious illness.
+
+---
+
+Interview concluded. Patient demonstrated a thoughtful, psychologically-informed perspective on integrating conventional and complementary care approaches.

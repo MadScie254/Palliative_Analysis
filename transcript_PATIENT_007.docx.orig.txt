@@ -1,0 +1,90 @@
+Source: palliative_data.csv — row PATIENT_007 (facts only). Generated using Appendix I questionnaire and Esther transcript format.
+
+Transcript: PATIENT_007
+
+Interviewer (KNH, Palliative Unit): Thank you for agreeing to participate in this research study about complementary and alternative medicine use in palliative care. Your responses will remain confidential and help us better understand patient experiences with these therapies.
+
+**Section 1: Demographic Information**
+
+**Interviewer:** How old are you?
+**Patient:** I'm 54 years old. (voice steady, mature)
+
+**Interviewer:** What is your gender?
+**Patient:** Female.
+
+**Interviewer:** What is your level of education?
+**Patient:** I have a college degree. (slight pride) I studied education and worked as a teacher before my diagnosis.
+
+**Interviewer:** What is your main diagnosis for palliative care?
+**Patient:** Breast cancer. (voice becomes more serious) It's advanced now, and we're focusing on managing symptoms and maintaining quality of life.
+
+**Interviewer:** How long have you been receiving palliative care?
+**Patient:** About a year and a half now. (reflective tone) It's been a journey of learning to adapt and find new ways to manage daily challenges.
+
+**Section 2: Awareness and Use**
+
+**Interviewer:** Have you ever used any type of alternative therapy or method for pain management?
+**Patient:** Yes, I have. (confident tone) My family encouraged me to explore complementary approaches alongside my medical treatment.
+
+**Interviewer:** How did you learn about these options?
+**Patient:** Through my family mainly. (voice warms) They researched different options and connected me with other women who had experience with breast cancer and alternative therapies.
+
+**Interviewer:** Which of these methods have you tried?
+**Patient:** I use herbal remedies regularly. (animated) I prepare teas and take herbal supplements that are supposed to help with inflammation, nausea, and general well-being. My sister helps me research which herbs might be most beneficial.
+
+**Interviewer:** How often do you use these methods?
+**Patient:** Daily. (emphatic) I've incorporated herbal teas into my morning and evening routine, and I take herbal supplements with my meals. It's become an important part of how I care for myself.
+
+**Section 3: Effectiveness and Satisfaction**
+
+**Interviewer:** How effective have they been in controlling your pain?
+**Patient:** Very effective. (voice shows conviction) I notice a real difference in my pain levels and overall comfort when I'm consistent with my herbal routine compared to when I skip it.
+
+**Interviewer:** Compared to hospital medicines, how would you rate these alternative therapies?
+**Patient:** Less effective than conventional medicines for acute pain. (thoughtful) But they seem to work well for overall comfort and helping me feel more balanced. The conventional medications are stronger, but the herbs help with things the medications don't address.
+
+**Interviewer:** Have you ever experienced any side effects from these therapies?
+**Patient:** No, I haven't experienced any negative side effects from the herbal remedies I use.
+
+**Interviewer:** Please explain those side effects.
+**Patient:** Not applicable - the herbs have been gentle on my system without causing any problems.
+
+**Interviewer:** Have these treatments improved your overall quality of life?
+**Patient:** Yes, definitely. (voice becomes stronger) I feel more energetic and have better days overall when I'm consistent with my herbal routine. It gives me a sense of actively participating in my care.
+
+**Interviewer:** Do you feel you have more control over your pain because of these methods?
+**Patient:** Yes, absolutely. (emphatic) Having something I can do actively for myself, rather than just taking prescribed medications, makes me feel less helpless in managing my condition.
+
+**Section 4: Communication and Decision-Making**
+
+**Interviewer:** Have you discussed your use of alternative therapy with your healthcare provider?
+**Patient:** No, I haven't brought it up with my medical team. (voice becomes hesitant)
+
+**Interviewer:** Why not?
+**Patient:** I don't think it's necessary to mention it. (pauses) The herbal remedies don't seem to interfere with my medical treatments, and I figure what I do at home for comfort is my own business.
+
+**Interviewer:** Has the healthcare provider shown support?
+**Patient:** Since I haven't discussed it with them, I don't know what their position would be.
+
+**Section 5: Barriers and Challenges**
+
+**Interviewer:** What challenges have you faced?
+**Patient:** High cost is the main barrier. (sighs) Quality herbal supplements and teas can be expensive, and with reduced income due to my illness, it's sometimes difficult to maintain the routine I'd like.
+
+**Interviewer:** What would motivate you to use them more regularly?
+**Patient:** Low cost options would make the biggest difference. (voice hopeful) If there were more affordable sources for quality herbs, or if insurance covered some alternative therapies, I could be more consistent.
+
+**Section 6: Final Thoughts**
+
+**Interviewer:** Do you believe alternative therapies should be officially included in conventional care?
+**Patient:** Yes, I really believe CAM should be integrated into mainstream palliative care. (voice becomes animated) These approaches can complement conventional treatment and help patients feel more in control of their healing process.
+
+**Interviewer:** What additional support would you like to receive regarding pain management?
+**Patient:** I would love to have access to knowledgeable practitioners who could guide me in choosing the most effective herbs for my specific symptoms, and maybe help with cost-effective sources.
+
+**Interviewer:** Would you like to participate in future research?
+**Patient:** Yes, I would be very interested in participating if it could help other women facing similar challenges with breast cancer.
+
+---
+
+Interview concluded. Patient appeared engaged and knowledgeable about her self-care approach, demonstrating strong conviction about the benefits of herbal therapies.

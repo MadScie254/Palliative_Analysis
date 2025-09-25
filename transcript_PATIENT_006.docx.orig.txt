@@ -1,0 +1,90 @@
+Source: palliative_data.csv — row PATIENT_006 (facts only). Generated using Appendix I questionnaire and Esther transcript format.
+
+Transcript: PATIENT_006
+
+Interviewer (KNH, Palliative Unit): Thank you for agreeing to participate in this research study about complementary and alternative medicine use in palliative care. Your responses will remain confidential and help us better understand patient experiences with these therapies.
+
+**Section 1: Demographic Information**
+
+**Interviewer:** How old are you?
+**Patient:** I am 62 years old. (voice measured, thoughtful)
+
+**Interviewer:** What is your gender?
+**Patient:** Female.
+
+**Interviewer:** What is your level of education?
+**Patient:** I completed secondary school. (pauses) Finished my O-levels and worked as a clerk for many years.
+
+**Interviewer:** What is your main diagnosis for palliative care?
+**Patient:** Cancer. (voice becomes quieter) The doctors haven't gone into all the specific details, but they've moved me to comfort care.
+
+**Interviewer:** How long have you been receiving palliative care?
+**Patient:** Less than six months. (thoughtful) It's still quite new for me - I'm still learning what this means for my daily life.
+
+**Section 2: Awareness and Use**
+
+**Interviewer:** Have you ever used any type of alternative therapy or method for pain management?
+**Patient:** Yes, I have tried aromatherapy. (voice becomes slightly more animated) My family suggested it might help with relaxation and stress management.
+
+**Interviewer:** How did you learn about these options?
+**Patient:** Through my family. (soft smile in voice) My daughter had read about aromatherapy being used for cancer patients and thought it might be worth trying for relaxation and possibly pain relief.
+
+**Interviewer:** Which of these methods have you tried?
+**Patient:** Aromatherapy - using essential oils in a diffuser and sometimes applying diluted oils to my skin. (pauses) I use different scents depending on whether I'm trying to relax or energize myself.
+
+**Interviewer:** How often do you use these methods?
+**Patient:** Weekly. (matter-of-fact tone) Usually I set aside time on weekends to have longer aromatherapy sessions, though sometimes I use the diffuser more frequently during particularly stressful periods.
+
+**Section 3: Effectiveness and Satisfaction**
+
+**Interviewer:** How effective have they been in controlling your pain?
+**Patient:** Not effective at all for pain control. (honest, direct tone) While the scents are pleasant and relaxing, they don't actually reduce my physical pain levels.
+
+**Interviewer:** Compared to hospital medicines, how would you rate these alternative therapies?
+**Patient:** Less effective than conventional medicines. (pragmatic tone) The hospital medications actually manage my pain, while the aromatherapy is more about creating a pleasant environment.
+
+**Interviewer:** Have you ever experienced any side effects from these therapies?
+**Patient:** No, I haven't experienced any negative side effects from the aromatherapy.
+
+**Interviewer:** Please explain those side effects.
+**Patient:** Not applicable - the aromatherapy has been gentle with no adverse reactions.
+
+**Interviewer:** Have these treatments improved your overall quality of life?
+**Patient:** No, not significantly. (realistic tone) While I enjoy the relaxing aspects, it hasn't made a meaningful difference in my overall well-being or daily functioning.
+
+**Interviewer:** Do you feel you have more control over your pain because of these methods?
+**Patient:** No, I don't feel more control over my pain. (matter-of-fact) The aromatherapy helps me feel calmer, but it doesn't give me any real control over my physical symptoms.
+
+**Section 4: Communication and Decision-Making**
+
+**Interviewer:** Have you discussed your use of alternative therapy with your healthcare provider?
+**Patient:** No, I haven't brought it up with my medical team.
+
+**Interviewer:** Why not?
+**Patient:** I didn't think it was necessary to mention. (practical tone) Since it's not really helping with medical symptoms and is more about creating a pleasant atmosphere, I didn't see it as medically relevant.
+
+**Interviewer:** Has the healthcare provider shown support?
+**Patient:** Not applicable since I haven't discussed it with them.
+
+**Section 5: Barriers and Challenges**
+
+**Interviewer:** What challenges have you faced?
+**Patient:** Limited availability has been an issue. (slight frustration in voice) Finding good quality essential oils consistently can be challenging, and some of the specific scents that work best for me aren't always available.
+
+**Interviewer:** What would motivate you to use them more regularly?
+**Patient:** More research and proven effectiveness would be important. (thoughtful) If there were studies showing that aromatherapy actually provides medical benefits for cancer patients, I might approach it more systematically.
+
+**Section 6: Final Thoughts**
+
+**Interviewer:** Do you believe alternative therapies should be officially included in conventional care?
+**Patient:** Yes, I think CAM should be integrated into mainstream palliative care. (voice becomes more animated) Even if aromatherapy doesn't directly treat symptoms, if it helps some patients feel more comfortable in the hospital environment, that seems worthwhile.
+
+**Interviewer:** What additional support would you like to receive regarding pain management?
+**Patient:** I would appreciate more effective conventional pain management options and perhaps guidance on which alternative approaches might actually provide medical benefits rather than just comfort.
+
+**Interviewer:** Would you like to participate in future research?
+**Patient:** Yes, I would be willing to participate if it could help determine which approaches are truly beneficial for patients like me.
+
+---
+
+Interview concluded. Patient demonstrated a realistic and pragmatic perspective on her experience with alternative therapy.

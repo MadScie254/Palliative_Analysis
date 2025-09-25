@@ -1,0 +1,90 @@
+Source: palliative_data.csv — row PATIENT_001 (facts only). Generated using Appendix I questionnaire and Esther transcript format.
+
+Transcript: PATIENT_001
+
+Interviewer (KNH, Palliative Unit): Thank you for agreeing to participate in this research study about complementary and alternative medicine use in palliative care. Your responses will remain confidential and help us better understand patient experiences with these therapies.
+
+**Section 1: Demographic Information**
+
+**Interviewer:** How old are you?
+**Patient:** I am 61 years old. (voice steady)
+
+**Interviewer:** What is your gender?
+**Patient:** Female.
+
+**Interviewer:** What is your level of education?
+**Patient:** I completed secondary school. (pauses) I finished my O-levels but didn't go on to university.
+
+**Interviewer:** What is your main diagnosis for palliative care?
+**Patient:** I have bone cancer. (voice becomes quieter) The doctors told me it's advanced and they're focusing on keeping me comfortable now.
+
+**Interviewer:** How long have you been receiving palliative care?
+**Patient:** It's been about eight months now. (sighs softly) Time seems to move differently when you're in this situation.
+
+**Section 2: Awareness and Use**
+
+**Interviewer:** Have you ever used any type of alternative therapy or method for pain management?
+**Patient:** Yes, I have tried several different methods. My family encouraged me to explore these options alongside my hospital treatment.
+
+**Interviewer:** How did you learn about these options?
+**Patient:** My family told me about them. (voice warming slightly) My sister especially - she had heard from other families who had been through similar situations. They shared their experiences and what had helped them.
+
+**Interviewer:** Which of these methods have you tried?
+**Patient:** I've tried massage therapy, which helps with the muscle tension. I also use herbal remedies - mostly teas and preparations my sister makes for me. And spiritual practices... (pauses) prayer and meditation have become very important to me.
+
+**Interviewer:** How often do you use these methods?
+**Patient:** Daily. (nods) Every single day. The massage I try to do myself or with family help, the herbal teas I drink throughout the day, and the spiritual practices have become part of my morning and evening routine.
+
+**Section 3: Effectiveness and Satisfaction**
+
+**Interviewer:** How effective have they been in controlling your pain?
+**Patient:** Very effective, actually. (voice shows surprise) I wasn't sure what to expect at first, but they really do help. The massage eases the constant aching in my bones, and the herbal teas seem to calm my whole system.
+
+**Interviewer:** Compared to hospital medicines, how would you rate these alternative therapies?
+**Patient:** I'd say they're equally effective. (thoughtful pause) The hospital medicines are crucial - don't get me wrong - but these methods work alongside them really well. They complement each other.
+
+**Interviewer:** Have you ever experienced any side effects from these therapies?
+**Patient:** No, I haven't experienced any negative side effects from the alternative methods I use.
+
+**Interviewer:** Please explain those side effects.
+**Patient:** Not applicable - I haven't had any side effects to explain.
+
+**Interviewer:** Have these treatments improved your overall quality of life?
+**Patient:** Yes, definitely. (voice becomes stronger) I feel more like myself when I use these methods. They give me something to do for myself, some control over how I feel day to day.
+
+**Interviewer:** Do you feel you have more control over your pain because of these methods?
+**Patient:** Yes, absolutely. (emphatic) Instead of just waiting for the next dose of medication, I can actively do something when the pain starts building. That psychological difference is huge.
+
+**Section 4: Communication and Decision-Making**
+
+**Interviewer:** Have you discussed your use of alternative therapy with your healthcare provider?
+**Patient:** No, I haven't brought it up with my doctors or nurses. (voice becomes hesitant)
+
+**Interviewer:** Why not?
+**Patient:** I'm afraid they might disapprove or tell me to stop. (long pause) I worry they might think I'm being foolish or that I don't trust their treatment. I don't want to upset the relationship we have.
+
+**Interviewer:** Has the healthcare provider shown support?
+**Patient:** I haven't given them the opportunity to show support or disapproval because I haven't told them about it.
+
+**Section 5: Barriers and Challenges**
+
+**Interviewer:** What challenges have you faced?
+**Patient:** Not specified in my particular case - I've been fortunate that my family helps with everything and we haven't encountered major barriers.
+
+**Interviewer:** What would motivate you to use them more regularly?
+**Patient:** If I had recommendations from healthcare providers, I would feel much more confident about using these methods. (voice brightens) If the doctors said it was okay or even encouraged it, I could relax and focus on the benefits.
+
+**Section 6: Final Thoughts**
+
+**Interviewer:** Do you believe alternative therapies should be officially included in conventional care?
+**Patient:** Yes, I really do. (voice becomes animated) CAM should be integrated into mainstream palliative care. These methods have helped me so much, and I think other patients could benefit too if they were offered as part of the standard treatment plan.
+
+**Interviewer:** What additional support would you like to receive regarding pain management?
+**Patient:** I would love to have proper guidance on which alternative methods might work best for my specific type of cancer and pain. (pauses) Maybe some training on how to do massage techniques properly, or which herbal remedies are safest to use.
+
+**Interviewer:** Would you like to participate in future research?
+**Patient:** Yes, I would be willing to participate if it could help other patients in similar situations. (voice firm) If sharing my experience could help improve care for others, I think that would be meaningful.
+
+---
+
+Interview concluded. Patient appeared comfortable throughout the discussion and was forthcoming about her experiences with both conventional and alternative therapies.

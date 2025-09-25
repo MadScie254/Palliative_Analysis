@@ -1,0 +1,90 @@
+Source: palliative_data.csv — row PATIENT_005 (facts only). Generated using Appendix I questionnaire and Esther transcript format.
+
+Transcript: PATIENT_005
+
+Interviewer (KNH, Palliative Unit): Thank you for agreeing to participate in this research study about complementary and alternative medicine use in palliative care. Your responses will remain confidential and help us better understand patient experiences with these therapies.
+
+**Section 1: Demographic Information**
+
+**Interviewer:** How old are you?
+**Patient:** I am 35 years old. (voice soft, sounds younger than her years)
+
+**Interviewer:** What is your gender?
+**Patient:** Female.
+
+**Interviewer:** What is your level of education?
+**Patient:** I completed primary school. (pause) I didn't get the chance to go further with my studies.
+
+**Interviewer:** What is your main diagnosis for palliative care?
+**Patient:** Sinus cancer. (touches face area gently) It affects my breathing and causes a lot of facial pain and pressure.
+
+**Interviewer:** How long have you been receiving palliative care?
+**Patient:** It's been almost two years now. (sighs) It feels like a very long time when you're dealing with constant discomfort.
+
+**Section 2: Awareness and Use**
+
+**Interviewer:** Have you ever used any type of alternative therapy or method for pain management?
+**Patient:** Yes, I have tried some things. (hesitant) My friends suggested I try some natural remedies to see if they might help.
+
+**Interviewer:** How did you learn about these options?
+**Patient:** Through friends mainly. (voice becomes slightly warmer) Some of the other women in my community had heard about herbal remedies that might help with pain and breathing difficulties.
+
+**Interviewer:** Which of these methods have you tried?
+**Patient:** I've tried herbal remedies. (pauses) Mostly teas and preparations that are supposed to help with inflammation and pain. My friends helped me find different herbs that might be good for sinus problems.
+
+**Interviewer:** How often do you use these methods?
+**Patient:** Daily. I make herbal teas every morning and evening. (voice becomes matter-of-fact) It's become part of my routine, even though I'm not sure how much it helps.
+
+**Section 3: Effectiveness and Satisfaction**
+
+**Interviewer:** How effective have they been in controlling your pain?
+**Patient:** Not effective at all, honestly. (voice becomes flat) I was hoping they would help, but I don't notice any real difference in my pain levels or breathing.
+
+**Interviewer:** Compared to hospital medicines, how would you rate these alternative therapies?
+**Patient:** Less effective than the conventional medicines. (sighs) The hospital medications do provide some relief, but the herbal treatments... I don't think they're doing much for me.
+
+**Interviewer:** Have you ever experienced any side effects from these therapies?
+**Patient:** No, I haven't had any side effects from the herbal remedies I've tried.
+
+**Interviewer:** Please explain those side effects.
+**Patient:** Not applicable - I haven't experienced any side effects to describe.
+
+**Interviewer:** Have these treatments improved your overall quality of life?
+**Patient:** No, not really. (voice becomes sadder) I was hoping they would make me feel better overall, but I don't see any improvement in how I feel day to day.
+
+**Interviewer:** Do you feel you have more control over your pain because of these methods?
+**Patient:** No, I don't feel more in control. (voice quiet) If anything, I feel frustrated that these things my friends recommended aren't helping the way I hoped they would.
+
+**Section 4: Communication and Decision-Making**
+
+**Interviewer:** Have you discussed your use of alternative therapy with your healthcare provider?
+**Patient:** No, I haven't mentioned it to my doctors or nurses.
+
+**Interviewer:** Why not?
+**Patient:** The provider never asked about it. (pauses) And I wasn't sure if they would think it was important since it's not really helping me anyway.
+
+**Interviewer:** Has the healthcare provider shown support?
+**Patient:** I haven't given them the opportunity to show support or disapproval since I haven't brought it up.
+
+**Section 5: Barriers and Challenges**
+
+**Interviewer:** What challenges have you faced?
+**Patient:** Limited availability and high cost have been problems. (voice becomes strained) It's hard to find good quality herbs consistently, and even though they're not helping much, they're expensive for someone in my situation.
+
+**Interviewer:** What would motivate you to use them more regularly?
+**Patient:** More research and proven effectiveness would help. (voice shows some hope) If there were studies showing that certain herbal treatments actually work for sinus cancer symptoms, I might be more motivated to continue trying.
+
+**Section 6: Final Thoughts**
+
+**Interviewer:** Do you believe alternative therapies should be officially included in conventional care?
+**Patient:** I'm not sure. (uncertain tone) Since they haven't helped me personally, I'm not convinced they should be part of standard care, but maybe they work for other people.
+
+**Interviewer:** What additional support would you like to receive regarding pain management?
+**Patient:** I would like better options for managing the facial pain and breathing difficulties. Maybe different medications or treatments that are specifically designed for sinus cancer symptoms.
+
+**Interviewer:** Would you like to participate in future research?
+**Patient:** Yes, I would be willing if it could help find better treatments for other patients with similar conditions.
+
+---
+
+Interview concluded. Patient appeared somewhat discouraged by her lack of success with alternative therapies but remained hopeful about finding better treatment options.
